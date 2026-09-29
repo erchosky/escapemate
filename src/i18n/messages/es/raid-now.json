@@ -1,0 +1,47 @@
+{
+  "title": "Busco grupo para raid ahora",
+  "description": "La alternativa rápida al swipe para formar grupo en directo.",
+  "form": {
+    "title": "Busco grupo para raid ahora",
+    "description": "Crea una búsqueda activa. Expira automáticamente en 90 minutos.",
+    "map": "Mapa",
+    "objective": "Objetivo",
+    "language": "Idioma",
+    "region": "Región",
+    "style": "Estilo",
+    "playersNeeded": "Jugadores buscados",
+    "notes": "Notas",
+    "notesPlaceholder": "Ej. misión rápida, chill y buena comunicación",
+    "submit": "Publicar búsqueda",
+    "submitting": "Publicando...",
+    "gameMode": "Modo",
+    "activePost": "Tienes una búsqueda activa en {{map}}.",
+    "activePostHint": "Gestiona las solicitudes desde tu publicación o ciérrala para crear otra.",
+    "toggle": "Publicar"
+  },
+  "filters": {
+    "region": "Filtro región",
+    "language": "Filtro idioma",
+    "map": "Filtro mapa",
+    "objective": "Filtro objetivo",
+    "all": "Todos",
+    "apply": "Aplicar filtros",
+    "clear": "Limpiar filtros",
+    "gameMode": "Filtro modo"
+  },
+  "post": {
+    "fallbackPlayer": "Jugador",
+    "fallbackNote": "Listo para montar grupo ahora.",
+    "close": "Cerrar búsqueda",
+    "closing": "Cerrando...",
+    "yours": "Tu búsqueda",
+    "expires": "caduca {{time}}",
+    "seats": "Plazas {{accepted}}/{{needed}}",
+    "full": "Grupo completo"
+  },
+  "empty": {
+    "title": "No hay grupos activos",
+    "description": "Publica una búsqueda o vuelve al swipe para generar matches.",
+    "filtered": "Ningún grupo encaja con estos filtros. Prueba a quitar alguno."
+  }
+}

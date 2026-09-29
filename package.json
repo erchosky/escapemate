@@ -1,0 +1,59 @@
+{
+  "name": "escapemate",
+  "version": "1.3.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.12.0",
+    "npm": ">=10.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "dev:demo": "LOCAL_DEMO=true next dev --port 3000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "next typegen && tsc --noEmit",
+    "test": "node --test tests/unit/*.test.mjs",
+    "check:beta": "node scripts/beta-checks.mjs",
+    "i18n:check": "node scripts/i18n-check.mjs",
+    "tarkov:sync": "node scripts/tarkov-sync.mjs",
+    "zip:clean": "node scripts/create-clean-zip.mjs",
+    "check:artifact": "node scripts/check-clean-artifact.mjs",
+    "test:rls": "node tests/rls/rls.test.mjs",
+    "test:e2e": "playwright test",
+    "audit:beta": "npm run lint && npm run typecheck && npm test && npm run i18n:check && npm run check:beta && npm run build && npm run test:e2e",
+    "test:sql": "node scripts/sql-test.mjs",
+    "test:load": "node scripts/load-test.mjs",
+    "demo": "next build && LOCAL_DEMO=true DEMO_PRODUCTION_BUILD=true next start --port 3000",
+    "perf": "node scripts/perf-probe.mjs"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.3.3",
+    "@sentry/nextjs": "^11.1.0",
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.117.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^13.4.6",
+    "lucide-react": "^1.48.0",
+    "next": "^16.3.7",
+    "posthog-js": "^1.434.18",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tailwind-merge": "^3.7.0",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.16.0",
+    "@playwright/test": "^1.63.0",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^24.19.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.7",
+    "tailwindcss": "^4.3.3",
+    "typescript": "~6.0.3"
+  }
+}

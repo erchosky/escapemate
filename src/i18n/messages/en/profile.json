@@ -1,0 +1,136 @@
+{
+  "publicProfile": "Public profile",
+  "matchUnlocked": "Match unlocked",
+  "openDiscord": "Open Discord",
+  "like": "Like",
+  "pass": "Pass",
+  "level": "Level",
+  "emptyBio": "No bio yet.",
+  "chatAvailable": "Chat available",
+  "report": "Report",
+  "reporting": "Reporting...",
+  "block": "Block",
+  "blocking": "Blocking...",
+  "compatibility": "Compatibility",
+  "languages": "Languages",
+  "maps": "Maps",
+  "objectives": "Objectives",
+  "styles": "Styles",
+  "warnings": "Worth noting",
+  "primary": "Primary {{language}}",
+  "speaks": "Speaks {{language}}",
+  "stats": {
+    "level": "Level",
+    "objective": "Objective",
+    "mainMap": "Main map",
+    "schedule": "Schedule",
+    "undefined": "Undefined",
+    "tarkovTitle": "Tarkov stats",
+    "emptyTarkov": "This player does not have public stats yet.",
+    "survivalRate": "SR",
+    "kd": "K/D",
+    "raids": "Raids",
+    "hours": "Hours",
+    "pmcKills": "PMC kills",
+    "notAvailable": "N/A"
+  },
+  "questNeeds": {
+    "title": "Current objectives",
+    "fallback": "Quests"
+  },
+  "options": {
+    "regions": {
+      "eu": "EU",
+      "na": "NA",
+      "latam": "LATAM",
+      "asia": "ASIA"
+    },
+    "languages": {
+      "es": "Spanish",
+      "en": "English",
+      "fr": "French",
+      "de": "German",
+      "pt": "Portuguese",
+      "ru": "Russian",
+      "it": "Italian"
+    },
+    "maps": {
+      "customs": "Customs",
+      "factory": "Factory",
+      "woods": "Woods",
+      "shoreline": "Shoreline",
+      "interchange": "Interchange",
+      "reserve": "Reserve",
+      "lighthouse": "Lighthouse",
+      "streets_of_tarkov": "Streets of Tarkov",
+      "ground_zero": "Ground Zero",
+      "the_lab": "The Lab",
+      "terminal": "Terminal",
+      "the_labyrinth": "The Labyrinth",
+      "icebreaker": "Icebreaker"
+    },
+    "playStyles": {
+      "chill": "Chill",
+      "tryhard": "Tryhard",
+      "pvp": "PvP",
+      "loot_goblin": "Loot goblin",
+      "rat": "Rat",
+      "sniper": "Sniper",
+      "sherpa": "Sherpa",
+      "new_player": "New player",
+      "quest_focused": "Quest focused"
+    },
+    "objectives": {
+      "misiones": "Quests",
+      "loot_runs": "Loot runs",
+      "pvp": "PvP",
+      "aprender": "Learning",
+      "farmear_dinero": "Money farming",
+      "labs": "Labs",
+      "boss_hunting": "Boss hunting",
+      "scav_runs": "Scav runs",
+      "night_raids": "Night raids"
+    },
+    "schedules": {
+      "ma_ana": "Morning",
+      "tarde": "Afternoon",
+      "noche": "Night",
+      "madrugada": "Late night",
+      "fines_de_semana": "Weekends"
+    },
+    "questHelpTypes": {
+      "necesito_ayuda": "Need help",
+      "ofrezco_ayuda_sherpa": "Offering help / Sherpa",
+      "busco_d_o_para_quest": "Looking for quest duo",
+      "busco_squad_para_quest": "Looking for quest squad",
+      "busco_pvp": "Looking for PvP",
+      "busco_loot_run": "Looking for loot run",
+      "busco_aprender_mapa": "Looking to learn a map"
+    },
+    "questHelpStatuses": {
+      "activa": "Active",
+      "cerrada": "Closed",
+      "expirada": "Expired"
+    },
+    "gameModes": {
+      "pvp": "PvP",
+      "pve": "PvE"
+    },
+    "reportReasons": {
+      "harassment": "Harassment or insults",
+      "cheating": "Cheating",
+      "rmt": "Selling or RMT",
+      "spam": "Spam or ads",
+      "fake_profile": "Fake profile",
+      "other": "Other"
+    }
+  },
+  "activeAgo": "active {{time}}",
+  "reportReason": "Reason",
+  "reportDetails": "Details (optional)",
+  "reportDetailsPlaceholder": "What happened, when and in which context.",
+  "reportSubmit": "Send report",
+  "reportSent": "Report sent. The moderation team will review it.",
+  "blockConfirm": "Block {{nickname}}? You'll stop seeing each other in swipe, chat and posts.",
+  "blockConfirmAction": "Yes, block"
+}

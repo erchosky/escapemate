@@ -1,0 +1,13 @@
+.env export-ignore
+.env.* export-ignore
+.env.example -export-ignore
+.next/ export-ignore
+node_modules/ export-ignore
+coverage/ export-ignore
+test-results/ export-ignore
+playwright-report/ export-ignore
+.DS_Store export-ignore
+*.swp export-ignore
+*.pem export-ignore
+*.zip export-ignore
+*.tsbuildinfo export-ignore

@@ -1,0 +1,23 @@
+{
+  "reports": "Reportes",
+  "all": "Todos",
+  "description": "Moderación de la comunidad.",
+  "status": {
+    "open": "Abierto",
+    "reviewed": "Revisado",
+    "dismissed": "Descartado",
+    "actioned": "Accionado"
+  },
+  "errors": {
+    "invalid": "No se pudo actualizar el reporte.",
+    "failed": "No se pudo completar la acción. Inténtalo de nuevo.",
+    "rateLimited": "Has hecho demasiadas actualizaciones seguidas."
+  },
+  "noDetails": "Sin detalles adicionales.",
+  "reporter": "Reporta",
+  "reported": "Reportado",
+  "lastReview": "Última revisión",
+  "updating": "Actualizando...",
+  "emptyTitle": "Sin reportes en este filtro",
+  "emptyDescription": "Cuando haya reportes de usuarios aparecerán aquí."
+}

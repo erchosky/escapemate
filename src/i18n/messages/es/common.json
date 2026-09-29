@@ -1,0 +1,146 @@
+{
+  "appName": "EscapeMate",
+  "metadata": {
+    "title": "EscapeMate — Encuentra tu próximo escuadrón de raid",
+    "description": "Desliza, haz match y forma equipo con jugadores compatibles de Escape from Tarkov."
+  },
+  "language": {
+    "label": "Idioma",
+    "shortLabel": "Idioma",
+    "ariaLabel": "Seleccionar idioma",
+    "es": "Español",
+    "en": "English"
+  },
+  "actions": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "continue": "Continuar",
+    "retry": "Reintentar",
+    "loading": "Cargando...",
+    "signOut": "Cerrar sesión"
+  },
+  "navigation": {
+    "mainAria": "Navegación principal",
+    "mobileAria": "Navegación principal móvil",
+    "items": {
+      "swipe": "Deslizar",
+      "matches": "Matches",
+      "raidNow": "Raid",
+      "questHelp": "Misiones",
+      "settings": "Ajustes",
+      "admin": "Admin"
+    },
+    "profile": "Tu perfil"
+  },
+  "loading": {
+    "default": "Cargando",
+    "sections": {
+      "matches": "Cargando matches",
+      "questHelp": "Cargando ayuda de misiones",
+      "raidNow": "Cargando grupo ahora",
+      "settings": "Cargando ajustes",
+      "swipe": "Cargando deslizamiento"
+    }
+  },
+  "landing": {
+    "heroImageAlt": "Mesa táctica ficticia para planificar raids",
+    "loginLink": "Iniciar sesión con Discord",
+    "badge": "Matchmaking para Escape from Tarkov",
+    "headline": "Encuentra compañeros de raid sin entrar a ciegas.",
+    "description": "Desliza jugadores de Escape from Tarkov compatibles contigo por idioma, región, horario, mapas, estilo y modo PvP o PvE. Si hay interés mutuo se abre el chat y su Discord.",
+    "primaryCta": "Iniciar sesión con Discord",
+    "secondaryCta": "Busco grupo para jugar ahora",
+    "loginShort": "Entrar",
+    "proof": {
+      "free": "Gratis",
+      "discord": "Entra con Discord",
+      "modes": "PvP y PvE"
+    },
+    "how": {
+      "title": "Cómo funciona",
+      "profile": {
+        "title": "Crea tu perfil de raid",
+        "text": "Mapas, estilo, objetivos, horario, idiomas y modo. Si quieres, conecta tus stats de tarkov.dev."
+      },
+      "swipe": {
+        "title": "Desliza jugadores compatibles",
+        "text": "Cada tarjeta muestra el porqué de la compatibilidad y los avisos a tener en cuenta."
+      },
+      "play": {
+        "title": "Match y a la raid",
+        "text": "Con like mutuo se desbloquean el chat y su Discord. Coordinad hora y mapa, y a jugar."
+      }
+    },
+    "featuresTitle": "Todo lo que necesitas para no ir solo",
+    "feature": {
+      "compatibility": {
+        "title": "Compatibilidad de verdad",
+        "text": "Puntuación de 0 a 100 con idioma, región, horario, objetivos, mapas, estilo y experiencia real. Solo te empareja con gente de tu mismo modo."
+      },
+      "raidNow": {
+        "title": "Raid ahora",
+        "text": "¿Quieres jugar ya? Publica una búsqueda de 90 minutos, recibe solicitudes y acepta a quien encaje."
+      },
+      "questHelp": {
+        "title": "Ayuda con misiones",
+        "text": "Pide o ofrece ayuda con una quest concreta. Detecta el mapa de la misión y bloquea el RMT."
+      },
+      "chat": {
+        "title": "Chat y Discord al hacer match",
+        "text": "Nadie ve tu Discord hasta que hay interés mutuo o aceptas su solicitud."
+      }
+    },
+    "safety": "Sin pagos ni RMT. Puedes bloquear y reportar a cualquiera en un clic, y borrar tu cuenta cuando quieras. No estamos afiliados a Battlestate Games.",
+    "finalCta": {
+      "title": "Tu próximo dúo está a un swipe",
+      "text": "Tardas un minuto en crear tu perfil."
+    },
+    "preview": {
+      "language": "Principal Español",
+      "meta": "Nivel 44 · EU · Activo hace 3 min",
+      "reason1": "Habla tu idioma",
+      "reason2": "Coincidís en Customs",
+      "reason3": "Ambos buscáis misiones",
+      "pass": "Pasar",
+      "like": "Me gusta"
+    }
+  },
+  "demoBanner": "Modo demo local: los datos son de prueba y viven en memoria. Nada se guarda en Supabase.",
+  "responses": {
+    "accepted": "¡Te han aceptado! El chat ya está abierto.",
+    "openChat": "Abrir chat",
+    "declined": "El autor no aceptó tu solicitud esta vez.",
+    "pending": "Solicitud enviada. Te avisaremos cuando la acepten.",
+    "messageLabel": {
+      "raid_now": "Mensaje para el grupo",
+      "quest_help": "Mensaje para el autor"
+    },
+    "messagePlaceholder": {
+      "raid_now": "Ej. Voy con comms, nivel 30, listo en 5 min",
+      "quest_help": "Ej. Ya la hice, te enseño la ruta"
+    },
+    "sending": "Enviando...",
+    "cta": {
+      "raid_now": "Me apunto",
+      "quest_help": "Ofrecer ayuda"
+    },
+    "none": "Aún no hay solicitudes. Te avisaremos en la navegación cuando llegue alguna.",
+    "incoming": "Solicitudes pendientes: {{count}}",
+    "unknownPlayer": "Jugador",
+    "level": "Nivel {{level}}",
+    "noMessage": "Sin mensaje.",
+    "decline": "Rechazar",
+    "accept": "Aceptar",
+    "declinedByYou": "Rechazada",
+    "full": "Este grupo ya está completo."
+  },
+  "errorPage": {
+    "title": "Algo ha fallado",
+    "description": "No hemos podido cargar esta pantalla. Vuelve a intentarlo; si sigue pasando, prueba en unos minutos.",
+    "retry": "Reintentar",
+    "home": "Ir al inicio",
+    "notFoundTitle": "Esta página no existe",
+    "notFoundDescription": "Puede que el enlace haya caducado, que la publicación se cerrara o que el match ya no esté disponible."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Looking for Raid Now",
+  "description": "The fast alternative to swipe for forming a live group.",
+  "form": {
+    "title": "Looking for Raid Now",
+    "description": "Create an active search. It expires automatically in 90 minutes.",
+    "map": "Map",
+    "objective": "Objective",
+    "language": "Language",
+    "region": "Region",
+    "style": "Style",
+    "playersNeeded": "Players needed",
+    "notes": "Notes",
+    "notesPlaceholder": "E.g. quick quest, chill comms",
+    "submit": "Publish search",
+    "submitting": "Publishing...",
+    "gameMode": "Mode",
+    "activePost": "You have an active search on {{map}}.",
+    "activePostHint": "Handle requests from your post or close it to create a new one.",
+    "toggle": "Post"
+  },
+  "filters": {
+    "region": "Region filter",
+    "language": "Language filter",
+    "map": "Map filter",
+    "objective": "Objective filter",
+    "all": "All",
+    "apply": "Apply filters",
+    "clear": "Clear filters",
+    "gameMode": "Mode filter"
+  },
+  "post": {
+    "fallbackPlayer": "Player",
+    "fallbackNote": "Ready to build a squad now.",
+    "close": "Close search",
+    "closing": "Closing...",
+    "yours": "Your search",
+    "expires": "expires {{time}}",
+    "seats": "Seats {{accepted}}/{{needed}}",
+    "full": "Squad full"
+  },
+  "empty": {
+    "title": "No active groups",
+    "description": "Publish a search or return to swipe to generate matches.",
+    "filtered": "No group matches these filters. Try removing some."
+  }
+}

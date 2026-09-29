@@ -1,0 +1,54 @@
+{
+  "title": "Ajustes",
+  "description": "Conecta tus datos de Tarkov y controla qué se muestra en perfiles.",
+  "languages": {
+    "title": "Idiomas",
+    "description": "Tu idioma principal pesa más en el matching. Añade todos los idiomas que puedas usar en raid.",
+    "primary": "Idioma principal",
+    "spoken": "Idiomas que hablas",
+    "save": "Guardar idiomas"
+  },
+  "tarkov": {
+    "title": "Perfil Tarkov",
+    "description": "Pega tu enlace de perfil público tarkov.dev o guarda estadísticas manuales públicas si la sincronización no está disponible.",
+    "source": "Origen:",
+    "lastSync": "Última sincronización:",
+    "notSynced": "Sin sincronizar",
+    "profileUrl": "URL tarkov.dev",
+    "profileUrlPlaceholder": "https://players.tarkov.dev/profile/2421869.json",
+    "showBeforeMatch": "Mostrar estadísticas generales antes del match",
+    "saveManual": "Guardar estadísticas manuales",
+    "syncNow": "Sincronizar ahora",
+    "syncing": "Sincronizando...",
+    "saving": "Guardando...",
+    "sources": {
+      "manual": "manual",
+      "tarkovDev": "tarkov.dev",
+      "manualFallback": "manual, tarkov.dev no respondió"
+    },
+    "stats": {
+      "level": "Nivel",
+      "survivalRate": "Supervivencia %",
+      "kd": "K/D",
+      "raids": "Raids",
+      "hours": "Horas",
+      "pmcKills": "Bajas PMC"
+    }
+  },
+  "profile": {
+    "title": "Tu perfil",
+    "description": "Así te ven otros jugadores en el swipe.",
+    "edit": "Editar perfil",
+    "avatar": "Foto de perfil",
+    "avatarHint": "JPG, PNG o WEBP, máximo 5 MB. Sustituye al avatar de Discord.",
+    "avatarSubmit": "Subir foto"
+  },
+  "danger": {
+    "title": "Eliminar cuenta",
+    "description": "Borra tu perfil, matches, mensajes, publicaciones y estadísticas. No se puede deshacer.",
+    "confirmLabel": "Escribe {{word}} para confirmar",
+    "confirmWord": "ELIMINAR",
+    "submit": "Eliminar cuenta",
+    "deleting": "Eliminando..."
+  }
+}

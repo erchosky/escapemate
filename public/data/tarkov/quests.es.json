@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "5936d90786f7742b1420ba5b",
+    "name": "Debut",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Disparando Latas"
+    ]
+  },
+  {
+    "id": "5936da9e86f7742d65037edf",
+    "name": "Comprobación de Antecedentes",
+    "trader": "Prapor",
+    "map": "Customs",
+    "requirements": [
+      "Vida Lujosa"
+    ]
+  },
+  {
+    "id": "59674cd986f7744ab26e32f2",
+    "name": "Pícnic Sangriento",
+    "trader": "Prapor",
+    "map": "Woods",
+    "requirements": [
+      "Comprobación de Antecedentes"
+    ]
+  },
+  {
+    "id": "59674eb386f774539f14813a",
+    "name": "Una Entrega del Pasado",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Comprobación de Antecedentes"
+    ]
+  },
+  {
+    "id": "5967530a86f77462ba22226b",
+    "name": "Evidencias Incómodas",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Oro Líquido"
+    ]
+  },
+  {
+    "id": "59675d6c86f7740a842fc482",
+    "name": "Alta Capacidad",
+    "trader": "Prapor",
+    "map": "Woods",
+    "requirements": [
+      "Evidencias Incómodas"
+    ]
+  },
+  {
+    "id": "59675ea386f77414b32bded2",
+    "name": "El Mensajero - Parte 1",
+    "trader": "Prapor",
+    "map": "Factory",
+    "requirements": [
+      "Alta Capacidad"
+    ]
+  },
+  {
+    "id": "596760e186f7741e11214d58",
+    "name": "El Mensajero - Parte 2",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "El Mensajero - Parte 1"
+    ]
+  },
+  {
+    "id": "5967725e86f774601a446662",
+    "name": "Sacudiendo al cajero",
+    "trader": "Prapor",
+    "map": "Customs",
+    "requirements": [
+      "Alta Capacidad"
+    ]
+  },
+  {
+    "id": "5967733e86f774602332fc84",
+    "name": "Escasez",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Primero en la Línea"
+    ]
+  },
+  {
+    "id": "59689ee586f7740d1570bbd5",
+    "name": "Normas Sanitarias - Parte 1",
+    "trader": "Therapist",
+    "map": "Factory",
+    "requirements": [
+      "Escasez"
+    ]
+  },
+  {
+    "id": "59689fbd86f7740d137ebfc4",
+    "name": "Operación Acuario - Parte 1",
+    "trader": "Therapist",
+    "map": "Customs",
+    "requirements": [
+      "Escasez"
+    ]
+  },
+  {
+    "id": "5968eb3186f7741dde183a4d",
+    "name": "Operación Acuario - Parte 2",
+    "trader": "Therapist",
+    "map": "Customs",
+    "requirements": [
+      "Operación Acuario - Parte 1"
+    ]
+  },
+  {
+    "id": "5969f90786f77420d2328015",
+    "name": "Analgésicos",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Normas Sanitarias - Parte 2"
+    ]
+  },
+  {
+    "id": "5969f9e986f7741dde183a50",
+    "name": "Farmacéutico",
+    "trader": "Therapist",
+    "map": "Customs",
+    "requirements": [
+      "Analgésicos"
+    ]
+  },
+  {
+    "id": "596a0e1686f7741ddf17dbee",
+    "name": "Planes de Suministro",
+    "trader": "Therapist",
+    "map": "Woods",
+    "requirements": [
+      "Farmacéutico"
+    ]
+  },
+  {
+    "id": "596a101f86f7741ddb481582",
+    "name": "Llámalo Sabotaje",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Planes de Suministro"
+    ]
+  },
+  {
+    "id": "596a1e6c86f7741ddc2d3206",
+    "name": "Carne Enlatada",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Farmacéutico"
+    ]
+  },
+  {
+    "id": "596a204686f774576d4c95de",
+    "name": "Normas Sanitarias - Parte 2",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Normas Sanitarias - Parte 1"
+    ]
+  },
+  {
+    "id": "596a218586f77420d232807c",
+    "name": "Mecánico y Pistolero",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Farmacéutico"
+    ]
+  },
+  {
+    "id": "596b36c586f77450d6045ad2",
+    "name": "Proveedor",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Quemando Llanta"
+    ]
+  },
+  {
+    "id": "596b43fb86f77457ca186186",
+    "name": "El Extorsionador",
+    "trader": "Skier",
+    "map": "Customs",
+    "requirements": [
+      "Proveedor"
+    ]
+  },
+  {
+    "id": "596b455186f77457cb50eccb",
+    "name": "Liarla Parda",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Proveedor"
+    ]
+  },
+  {
+    "id": "5979ed3886f77431307dc512",
+    "name": "¿Qué Hay en la Memoria USB?",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "El Extorsionador"
+    ]
+  },
+  {
+    "id": "5979eee086f774311955e614",
+    "name": "Chapado en Oro",
+    "trader": "Skier",
+    "map": "Customs",
+    "requirements": [
+      "¿Qué Hay en la Memoria USB?"
+    ]
+  },
+  {
+    "id": "5979f8bb86f7743ec214c7a6",
+    "name": "El Vagabundo de la Polikhim",
+    "trader": "Prapor",
+    "map": "Customs",
+    "requirements": [
+      "Químico - Parte 1"
+    ]
+  },
+  {
+    "id": "5979f9ba86f7740f6c3fe9f2",
+    "name": "Químico - Parte 1",
+    "trader": "Skier",
+    "map": "Customs",
+    "requirements": [
+      "Chapado en Oro"
+    ]
+  },
+  {
+    "id": "597a0b2986f77426d66c0633",
+    "name": "Químico - Parte 2",
+    "trader": "Skier",
+    "map": "Customs",
+    "requirements": [
+      "Químico - Parte 1"
+    ]
+  },
+  {
+    "id": "597a0e5786f77426d66c0636",
+    "name": "Químico - Parte 3",
+    "trader": "Skier",
+    "map": "Factory",
+    "requirements": [
+      "Químico - Parte 2"
+    ]
+  },
+  {
+    "id": "597a0f5686f774273b74f676",
+    "name": "Químico - Parte 4",
+    "trader": "Skier",
+    "map": "Customs",
+    "requirements": [
+      "Químico - Parte 3"
+    ]
+  },
+  {
+    "id": "597a160786f77477531d39d2",
+    "name": "La Curiosidad Mató al Gato",
+    "trader": "Therapist",
+    "map": "Customs",
+    "requirements": [
+      "Químico - Parte 4"
+    ]
+  },
+  {
+    "id": "597a171586f77405ba6887d3",
+    "name": "Cliente Importante",
+    "trader": "Prapor",
+    "map": "Customs",
+    "requirements": [
+      "Químico - Parte 4"
+    ]
+  },
+  {
+    "id": "59c124d686f774189b3c843f",
+    "name": "Oro Líquido",
+    "trader": "Prapor",
+    "map": "Customs",
+    "requirements": [
+      "Una Entrega del Pasado"
+    ]
+  },
+  {
+    "id": "59c50a9e86f7745fef66f4ff",
+    "name": "The Punisher - Parte 1",
+    "trader": "Prapor",
+    "map": "Shoreline",
+    "requirements": [
+      "Sacudiendo al cajero"
+    ]
+  },
+  {
+    "id": "59c50c8886f7745fed3193bf",
+    "name": "The Punisher - Parte 2",
+    "trader": "Prapor",
+    "map": "Reserve",
+    "requirements": [
+      "The Punisher - Parte 1"
+    ]
+  },
+  {
+    "id": "59c512ad86f7741f0d09de9b",
+    "name": "The Punisher - Parte 3",
+    "trader": "Prapor",
+    "map": "Customs",
+    "requirements": [
+      "The Punisher - Parte 2"
+    ]
+  },
+  {
+    "id": "59c9392986f7742f6923add2",
+    "name": "Confianza",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "La Curiosidad Mató al Gato"
+    ]
+  },
+  {
+    "id": "59c93e8e86f7742a406989c4",
+    "name": "Lealtad en Venta",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Químico - Parte 4"
+    ]
+  },
+  {
+    "id": "59ca1a6286f774509a270942",
+    "name": "Sin Rencor",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Cliente Importante"
+    ]
+  },
+  {
+    "id": "59ca264786f77445a80ed044",
+    "name": "The Punisher - Parte 4",
+    "trader": "Prapor",
+    "map": "Lighthouse",
+    "requirements": [
+      "The Punisher - Parte 3"
+    ]
+  },
+  {
+    "id": "59ca29fb86f77445ab465c87",
+    "name": "The Punisher - Parte 5",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "The Punisher - Parte 4"
+    ]
+  },
+  {
+    "id": "59ca2eb686f77445a80ed049",
+    "name": "The Punisher - Parte 6",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "The Punisher - Parte 5"
+    ]
+  },
+  {
+    "id": "5a03153686f77442d90e2171",
+    "name": "Vacaciones en el Balneario - Parte 1",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Suministros Humanitarios"
+    ]
+  },
+  {
+    "id": "5a03173786f77451cb427172",
+    "name": "Vacaciones en el Balneario - Parte 2",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 1"
+    ]
+  },
+  {
+    "id": "5a0327ba86f77456b9154236",
+    "name": "Vacaciones en el Balneario - Parte 3",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 2"
+    ]
+  },
+  {
+    "id": "5a03296886f774569778596a",
+    "name": "Vacaciones en el Balneario - Parte 4",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 3"
+    ]
+  },
+  {
+    "id": "5a0449d586f77474e66227b7",
+    "name": "Vacaciones en el Balneario - Parte 5",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 4"
+    ]
+  },
+  {
+    "id": "5a27b75b86f7742e97191958",
+    "name": "Equipo de Pesca",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Amigo Occidental - Parte 2"
+    ]
+  },
+  {
+    "id": "5a27b7a786f774579c3eb376",
+    "name": "La Caza del Tigre",
+    "trader": "Peacekeeper",
+    "map": "Customs",
+    "requirements": [
+      "Equipo de Pesca"
+    ]
+  },
+  {
+    "id": "5a27b7d686f77460d847e6a6",
+    "name": "Chatarra",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "La Caza del Tigre"
+    ]
+  },
+  {
+    "id": "5a27b80086f774429a5d7e20",
+    "name": "Ojo de Águila",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Chatarra"
+    ]
+  },
+  {
+    "id": "5a27b87686f77460de0252a8",
+    "name": "Suministros Humanitarios",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Ojo de Águila"
+    ]
+  },
+  {
+    "id": "5a27b9de86f77464e5044585",
+    "name": "El Culto - Parte 1",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Suministros Humanitarios"
+    ]
+  },
+  {
+    "id": "5a27ba1c86f77461ea5a3c56",
+    "name": "El Culto - Parte 2",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "El Culto - Parte 1"
+    ]
+  },
+  {
+    "id": "5a27ba9586f7741b543d8e85",
+    "name": "Vacaciones en el Balneario - Parte 6",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 5"
+    ]
+  },
+  {
+    "id": "5a27bafb86f7741c73584017",
+    "name": "Vacaciones en el Balneario - Parte 7",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 6"
+    ]
+  },
+  {
+    "id": "5a27bb1e86f7741f27621b7e",
+    "name": "Cargamento Desconocido - Parte 1",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 7"
+    ]
+  },
+  {
+    "id": "5a27bb3d86f77411ea361a21",
+    "name": "Cargamento Desconocido - Parte 2",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Cargamento Desconocido - Parte 1"
+    ]
+  },
+  {
+    "id": "5a27bb5986f7741dfb660900",
+    "name": "Cargamento Desconocido - Parte 3",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Cargamento Desconocido - Parte 2"
+    ]
+  },
+  {
+    "id": "5a27bb8386f7741c770d2d0a",
+    "name": "Trabajo Sucio - Parte 1",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 7"
+    ]
+  },
+  {
+    "id": "5a27bbf886f774333a418eeb",
+    "name": "Trabajo Sucio - Parte 2",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Trabajo Sucio - Parte 1"
+    ]
+  },
+  {
+    "id": "5a27bc1586f7741f6d40fa2f",
+    "name": "Trabajo Sucio - Parte 3",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Trabajo Sucio - Parte 2"
+    ]
+  },
+  {
+    "id": "5a27bc3686f7741c73584026",
+    "name": "Trabajo Sucio - Parte 4",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Trabajo Sucio - Parte 3"
+    ]
+  },
+  {
+    "id": "5a27bc6986f7741c7358402b",
+    "name": "Trabajo Sucio - Parte 5",
+    "trader": "Peacekeeper",
+    "map": "Shoreline",
+    "requirements": [
+      "Trabajo Sucio - Parte 4"
+    ]
+  },
+  {
+    "id": "5a27bc8586f7741b543d8ea4",
+    "name": "Trabajo Sucio - Parte 6",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Trabajo Sucio - Parte 5"
+    ]
+  },
+  {
+    "id": "5a27c99a86f7747d2c6bdd8e",
+    "name": "Amigo Occidental - Parte 1",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Proveedor"
+    ]
+  },
+  {
+    "id": "5a27d2af86f7744e1115b323",
+    "name": "Amigo Occidental - Parte 2",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Amigo Occidental - Parte 1"
+    ]
+  },
+  {
+    "id": "5a68661a86f774500f48afb0",
+    "name": "Atención Médica - Parte 1",
+    "trader": "Therapist",
+    "map": "Shoreline",
+    "requirements": [
+      "Farmacéutico"
+    ]
+  },
+  {
+    "id": "5a68663e86f774501078f78a",
+    "name": "Atención Médica - Parte 2",
+    "trader": "Therapist",
+    "map": "Shoreline",
+    "requirements": [
+      "Atención Médica - Parte 1"
+    ]
+  },
+  {
+    "id": "5a68665c86f774255929b4c7",
+    "name": "Atención Médica - Parte 3",
+    "trader": "Therapist",
+    "map": "Woods",
+    "requirements": [
+      "Atención Médica - Parte 2"
+    ]
+  },
+  {
+    "id": "5a68667486f7742607157d28",
+    "name": "Atención Médica - Parte 4",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Atención Médica - Parte 3"
+    ]
+  },
+  {
+    "id": "5a68669a86f774255929b4d4",
+    "name": "Atención Médica - Parte 5",
+    "trader": "Therapist",
+    "map": "Factory Nocturna",
+    "requirements": [
+      "Atención Médica - Parte 4"
+    ]
+  },
+  {
+    "id": "5ac23c6186f7741247042bad",
+    "name": "Armero - Parte 1",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Salvando al Topo"
+    ]
+  },
+  {
+    "id": "5ac2426c86f774138762edfe",
+    "name": "Armero - Parte 2",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 1"
+    ]
+  },
+  {
+    "id": "5ac2428686f77412450b42bf",
+    "name": "Armero - Parte 3",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 1"
+    ]
+  },
+  {
+    "id": "5ac242ab86f77412464f68b4",
+    "name": "Armero - Parte 16",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 15"
+    ]
+  },
+  {
+    "id": "5ac244c486f77413e12cf945",
+    "name": "Armero - Parte 13",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 12"
+    ]
+  },
+  {
+    "id": "5ac244eb86f7741356335af1",
+    "name": "Armero - Parte 7",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 6"
+    ]
+  },
+  {
+    "id": "5ac345dc86f774288030817f",
+    "name": "Minando - Parte 1",
+    "trader": "Mechanic",
+    "map": "Factory",
+    "requirements": [
+      "Armero - Parte 1"
+    ]
+  },
+  {
+    "id": "5ac3460c86f7742880308185",
+    "name": "Minando - Parte 2",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Minando - Parte 1"
+    ]
+  },
+  {
+    "id": "5ac3462b86f7741d6118b983",
+    "name": "Minando - Parte 3",
+    "trader": "Mechanic",
+    "map": "Customs",
+    "requirements": [
+      "Minando - Parte 2"
+    ]
+  },
+  {
+    "id": "5ac3464c86f7741d651d6877",
+    "name": "Minando - Parte 4",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Minando - Parte 3"
+    ]
+  },
+  {
+    "id": "5ac3467986f7741d6224abc2",
+    "name": "La Señal - Parte 1",
+    "trader": "Mechanic",
+    "map": "Shoreline",
+    "requirements": [
+      "Armero - Parte 2"
+    ]
+  },
+  {
+    "id": "5ac346a886f7744e1b083d67",
+    "name": "La Señal - Parte 2",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "La Señal - Parte 1"
+    ]
+  },
+  {
+    "id": "5ac346cf86f7741d63233a02",
+    "name": "La Señal - Parte 3",
+    "trader": "Mechanic",
+    "map": "Shoreline",
+    "requirements": [
+      "La Señal - Parte 2"
+    ]
+  },
+  {
+    "id": "5ac346e886f7741d6118b99b",
+    "name": "La Señal - Parte 4",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "La Señal - Parte 3"
+    ]
+  },
+  {
+    "id": "5ac3475486f7741d6224abd3",
+    "name": "Malos Hábitos",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Minando - Parte 2"
+    ]
+  },
+  {
+    "id": "5ac3477486f7741d651d6885",
+    "name": "Explorador",
+    "trader": "Mechanic",
+    "map": "Factory",
+    "requirements": [
+      "La Señal - Parte 2"
+    ]
+  },
+  {
+    "id": "5ac3479086f7742880308199",
+    "name": "El Favorito",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 3",
+      "La Señal - Parte 1"
+    ]
+  },
+  {
+    "id": "5ae3267986f7742a413592fe",
+    "name": "Armero - Parte 5",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 4"
+    ]
+  },
+  {
+    "id": "5ae3270f86f77445ba41d4dd",
+    "name": "Armero - Parte 6",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 5"
+    ]
+  },
+  {
+    "id": "5ae3277186f7745973054106",
+    "name": "Armero - Parte 8",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 7"
+    ]
+  },
+  {
+    "id": "5ae327c886f7745c7b3f2f3f",
+    "name": "Armero - Parte 10",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 9"
+    ]
+  },
+  {
+    "id": "5ae3280386f7742a41359364",
+    "name": "Armero - Parte 15",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 14"
+    ]
+  },
+  {
+    "id": "5ae448a386f7744d3730fff0",
+    "name": "Solo Negocios",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "5ae448bf86f7744d733e55ee",
+    "name": "Make ULTRA Great Again",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "Solo Negocios"
+    ]
+  },
+  {
+    "id": "5ae448e586f7744dcf0c2a67",
+    "name": "Rebajas en el ULTRA",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "Solo Negocios"
+    ]
+  },
+  {
+    "id": "5ae448f286f77448d73c0131",
+    "name": "Sangre de Guerra - Parte 1",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "Make ULTRA Great Again",
+      "Rebajas en el ULTRA"
+    ]
+  },
+  {
+    "id": "5ae4490786f7744ca822adcc",
+    "name": "Vestido para Matar",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Sangre de Guerra - Parte 1"
+    ]
+  },
+  {
+    "id": "5ae4493486f7744efa289417",
+    "name": "Base de Datos - Parte 1",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "Make ULTRA Great Again",
+      "Rebajas en el ULTRA"
+    ]
+  },
+  {
+    "id": "5ae4493d86f7744b8e15aa8f",
+    "name": "Base de Datos - Parte 2",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "Base de Datos - Parte 1"
+    ]
+  },
+  {
+    "id": "5ae4495086f77443c122bc40",
+    "name": "Cóselo Bien - Parte 1",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Base de Datos - Parte 2"
+    ]
+  },
+  {
+    "id": "5ae4495c86f7744e87761355",
+    "name": "Cóselo Bien - Parte 2",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Cóselo Bien - Parte 1"
+    ]
+  },
+  {
+    "id": "5ae4496986f774459e77beb6",
+    "name": "Cóselo Bien - Parte 3",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Cóselo Bien - Parte 2"
+    ]
+  },
+  {
+    "id": "5ae4497b86f7744cf402ed00",
+    "name": "Cóselo Bien - Parte 4",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Cóselo Bien - Parte 3"
+    ]
+  },
+  {
+    "id": "5ae4498786f7744bde357695",
+    "name": "La Clave del Éxito",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "Cóselo Bien - Parte 2"
+    ]
+  },
+  {
+    "id": "5ae4499a86f77449783815db",
+    "name": "Carisma y Tú",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Cóselo Bien - Parte 4",
+      "Sangre de Guerra - Parte 1"
+    ]
+  },
+  {
+    "id": "5ae449a586f7744bde357696",
+    "name": "Sin Levantar Sospechas",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "La Clave del Éxito"
+    ]
+  },
+  {
+    "id": "5ae449b386f77446d8741719",
+    "name": "Gratitud",
+    "trader": "Ragman",
+    "map": "Woods",
+    "requirements": [
+      "Base de Datos - Parte 2",
+      "Vestido para Matar"
+    ]
+  },
+  {
+    "id": "5ae449c386f7744bde357697",
+    "name": "Ventas Nocturnas",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "Gratitud"
+    ]
+  },
+  {
+    "id": "5ae449d986f774453a54a7e1",
+    "name": "El Encargado",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "La Clave del Éxito",
+      "Ventas Nocturnas"
+    ]
+  },
+  {
+    "id": "5b47749f86f7746c5d6a5fd4",
+    "name": "Armero - Parte 17",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 16"
+    ]
+  },
+  {
+    "id": "5b47799d86f7746c5d6a5fd8",
+    "name": "Armero - Parte 12",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 11"
+    ]
+  },
+  {
+    "id": "5b477b6f86f7747290681823",
+    "name": "Armero - Parte 18",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 17"
+    ]
+  },
+  {
+    "id": "5b477f7686f7744d1b23c4d2",
+    "name": "Armero - Parte 20",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 19"
+    ]
+  },
+  {
+    "id": "5b47825886f77468074618d3",
+    "name": "Armero - Parte 22",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 21"
+    ]
+  },
+  {
+    "id": "5b47876e86f7744d1c353205",
+    "name": "Sangre de Guerra - Parte 2",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Cóselo Bien - Parte 1",
+      "Sangre de Guerra - Parte 1"
+    ]
+  },
+  {
+    "id": "5b47891f86f7744d1b23c571",
+    "name": "Vivir a lo Grande no es Delito - Parte 1",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Cóselo Bien - Parte 3",
+      "Sangre de Guerra - Parte 1"
+    ]
+  },
+  {
+    "id": "5b478b1886f7744d1b23c57d",
+    "name": "Entrega en Caliente",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "Gratitud"
+    ]
+  },
+  {
+    "id": "5b478d0f86f7744d190d91b5",
+    "name": "¡EMP y Adiós!",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "Base de Datos - Parte 2"
+    ]
+  },
+  {
+    "id": "5b478eca86f7744642012254",
+    "name": "Vitaminas - Parte 1",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Químico - Parte 3"
+    ]
+  },
+  {
+    "id": "5b478ff486f7744d184ecbbf",
+    "name": "Vitaminas - Parte 2",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Vitaminas - Parte 1"
+    ]
+  },
+  {
+    "id": "5b47926a86f7747ccc057c15",
+    "name": "Informado Significa Armado",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Engaño"
+    ]
+  },
+  {
+    "id": "5b4794cb86f774598100d5d4",
+    "name": "Préstamo y Arriendo - Parte 1",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Amigo Occidental - Parte 2"
+    ]
+  },
+  {
+    "id": "5b4795fb86f7745876267770",
+    "name": "Comprando Amigos",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Informado Significa Armado"
+    ]
+  },
+  {
+    "id": "5bc4776586f774512d07cf05",
+    "name": "El Tirador de Tarkov - Parte 1",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "Ligero y Peligroso"
+    ]
+  },
+  {
+    "id": "5bc479e586f7747f376c7da3",
+    "name": "El Tirador de Tarkov - Parte 2",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "El Tirador de Tarkov - Parte 1"
+    ]
+  },
+  {
+    "id": "5bc47dbf86f7741ee74e93b9",
+    "name": "El Tirador de Tarkov - Parte 3",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "El Tirador de Tarkov - Parte 2"
+    ]
+  },
+  {
+    "id": "5bc480a686f7741af0342e29",
+    "name": "El Tirador de Tarkov - Parte 4",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "El Tirador de Tarkov - Parte 3"
+    ]
+  },
+  {
+    "id": "5bc4826c86f774106d22d88b",
+    "name": "El Tirador de Tarkov - Parte 5",
+    "trader": "Jaeger",
+    "map": "Customs",
+    "requirements": [
+      "El Tirador de Tarkov - Parte 4"
+    ]
+  },
+  {
+    "id": "5bc4836986f7740c0152911c",
+    "name": "El Tirador de Tarkov - Parte 6",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "El Tirador de Tarkov - Parte 5"
+    ]
+  },
+  {
+    "id": "5bc4856986f77454c317bea7",
+    "name": "El Tirador de Tarkov - Parte 7",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "El Tirador de Tarkov - Parte 6"
+    ]
+  },
+  {
+    "id": "5bc4893c86f774626f5ebf3e",
+    "name": "El Tirador de Tarkov - Parte 8",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "El Tirador de Tarkov - Parte 7"
+    ]
+  },
+  {
+    "id": "5c0bbaa886f7746941031d82",
+    "name": "Mentiras",
+    "trader": "Skier",
+    "map": "Customs",
+    "requirements": [
+      "Comprando Amigos"
+    ]
+  },
+  {
+    "id": "5c0bc91486f7746ab41857a2",
+    "name": "Calibre Silencioso",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Mentiras"
+    ]
+  },
+  {
+    "id": "5c0bd01e86f7747cdd799e56",
+    "name": "Insomnio",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Cargamento Desconocido - Parte 4"
+    ]
+  },
+  {
+    "id": "5c0bd94186f7747a727f09b2",
+    "name": "Prueba de Conducción - Parte 1",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Disparando Latas"
+    ]
+  },
+  {
+    "id": "5c0bdb5286f774166e38eed4",
+    "name": "Curtido",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Comprando Amigos"
+    ]
+  },
+  {
+    "id": "5c0bde0986f77479cf22c2f8",
+    "name": "Francotirador Profesional",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Minando - Parte 3"
+    ]
+  },
+  {
+    "id": "5c0be13186f7746f016734aa",
+    "name": "Un Francotirador Bestial",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Trabajo Sucio - Parte 6"
+    ]
+  },
+  {
+    "id": "5c0be5fc86f774467a116593",
+    "name": "Clínica Privada",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Atención Médica - Parte 4"
+    ]
+  },
+  {
+    "id": "5c0d0d5086f774363760aef2",
+    "name": "Atleta",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Atención Médica - Parte 4"
+    ]
+  },
+  {
+    "id": "5c0d0f1886f77457b8210226",
+    "name": "Préstamo y Arriendo - Parte 2",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Préstamo y Arriendo - Parte 1"
+    ]
+  },
+  {
+    "id": "5c0d190cd09282029f5390d8",
+    "name": "Granadero",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Disparando Latas"
+    ]
+  },
+  {
+    "id": "5c0d1c4cd0928202a02a6f5c",
+    "name": "Servicio de Descontaminación",
+    "trader": "Therapist",
+    "map": "Interchange",
+    "requirements": [
+      "Atención Médica - Parte 5",
+      "Clínica Privada"
+    ]
+  },
+  {
+    "id": "5c0d4c12d09282029f539173",
+    "name": "Misión de Paz",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Préstamo y Arriendo - Parte 2"
+    ]
+  },
+  {
+    "id": "5c0d4e61d09282029f53920e",
+    "name": "El Sherpa",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Trabajo Sucio - Parte 6"
+    ]
+  },
+  {
+    "id": "5c10f94386f774227172c572",
+    "name": "Sangre de Guerra - Parte 3",
+    "trader": "Ragman",
+    "map": "Woods",
+    "requirements": [
+      "Sangre de Guerra - Parte 2"
+    ]
+  },
+  {
+    "id": "5c1128e386f7746565181106",
+    "name": "Fertilizantes",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Minando - Parte 4"
+    ]
+  },
+  {
+    "id": "5c112d7e86f7740d6f647486",
+    "name": "Buscador de Tesoros",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Entrega en Caliente"
+    ]
+  },
+  {
+    "id": "5c1141f386f77430ff393792",
+    "name": "Vivir a lo Grande no es Delito - Parte 2",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Sangre de Guerra - Parte 3",
+      "Vivir a lo Grande no es Delito - Parte 1"
+    ]
+  },
+  {
+    "id": "5c1234c286f77406fa13baeb",
+    "name": "Engaño",
+    "trader": "Skier",
+    "map": "Customs",
+    "requirements": [
+      "Amigo Occidental - Parte 2"
+    ]
+  },
+  {
+    "id": "5c12452c86f7744b83469073",
+    "name": "El Mediador",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Sacudiendo al cajero"
+    ]
+  },
+  {
+    "id": "5c139eb686f7747878361a6f",
+    "name": "De Importación",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Minando - Parte 4"
+    ]
+  },
+  {
+    "id": "5c51aac186f77432ea65c552",
+    "name": "Coleccionista",
+    "trader": "Fence",
+    "map": null,
+    "requirements": [
+      "¡EMP y Adiós!",
+      "Ambulancia",
+      "Armero - Parte 22",
+      "Atención Médica - Parte 6",
+      "Belka y Strelka",
+      "Buscador de Tesoros",
+      "Cacería",
+      "Cargamento Perdido",
+      "Carisma y Tú",
+      "Claustrofobia",
+      "Club Privado",
+      "Comprobación de Inventario",
+      "Corredor Seguro",
+      "Crisis",
+      "Crisis Energética",
+      "Curtido",
+      "De Importación",
+      "Documentos",
+      "Dragnet",
+      "El Caladero",
+      "El Culto - Parte 2",
+      "El Encargado",
+      "El Ermitaño",
+      "El Favorito",
+      "El Mediador",
+      "El Mensajero - Parte 2",
+      "El Sherpa",
+      "El Tirador de Tarkov - Parte 8",
+      "Empleado de TerraGroup",
+      "Excedentes",
+      "Fertilizantes",
+      "Francotirador Profesional",
+      "Insomnio",
+      "Intimidador",
+      "La Señal - Parte 4",
+      "La Senda del Cazador - Controlador",
+      "La Senda del Cazador - Exterminador - Parte 2",
+      "La Senda del Cazador - Jefe de Fábrica",
+      "La Senda del Cazador - Justicia",
+      "La Senda del Cazador - Proscritos",
+      "La Senda del Cazador - Vigilante Cabreado",
+      "La Senda del Superviviente - Drogata",
+      "Las Paredes Tienen Ojos",
+      "Liarla Parda",
+      "Malos Hábitos",
+      "Más Cerca de la Gente",
+      "Materiales de Encargo",
+      "Mecánico y Pistolero",
+      "Misión de Búsqueda",
+      "Misión de Paz",
+      "Pasión por la Ergonomía",
+      "Perros Callejeros",
+      "Possessor",
+      "Prueba de Conducción - Parte 6",
+      "Reconocimiento",
+      "Revisión: Lighthouse",
+      "Rito de Iniciación",
+      "Romper el Trato",
+      "Secretos Corporativos",
+      "Servicio de Descontaminación",
+      "Sin Levantar Sospechas",
+      "Tecnologías Clasificadas",
+      "Todo Cazador Sabe Esto",
+      "Todo Está Revelado",
+      "Trabajo Fácil - Parte 2",
+      "Tráfico de Drogas",
+      "Transmisión - Parte 1",
+      "Un Francotirador Bestial",
+      "Vitaminas - Parte 2",
+      "Vivir a lo Grande no es Delito - Parte 2"
+    ]
+  },
+  {
+    "id": "5d2495a886f77425cd51e403",
+    "name": "Presentación",
+    "trader": "Mechanic",
+    "map": "Woods",
+    "requirements": [
+      "Armero - Parte 1"
+    ]
+  },
+  {
+    "id": "5d24b81486f77439c92d6ba8",
+    "name": "Ligero y Peligroso",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "Presentación"
+    ]
+  },
+  {
+    "id": "5d25aed386f77442734d25d2",
+    "name": "La Senda del Superviviente - Desprotegido pero Peligroso",
+    "trader": "Jaeger",
+    "map": "Woods",
+    "requirements": [
+      "Ligero y Peligroso"
+    ]
+  },
+  {
+    "id": "5d25b6be86f77444001e1b89",
+    "name": "La Senda del Superviviente - Previsor",
+    "trader": "Jaeger",
+    "map": "Woods",
+    "requirements": [
+      "La Senda del Superviviente - Desprotegido pero Peligroso"
+    ]
+  },
+  {
+    "id": "5d25bfd086f77442734d3007",
+    "name": "La Senda del Superviviente - Zhivchik",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Superviviente - Previsor"
+    ]
+  },
+  {
+    "id": "5d25c81b86f77443e625dd71",
+    "name": "La Senda del Superviviente - Bestia Herida",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Superviviente - Zhivchik"
+    ]
+  },
+  {
+    "id": "5d25cf2686f77443e75488d4",
+    "name": "La Senda del Superviviente - Tipo Duro",
+    "trader": "Jaeger",
+    "map": "Woods",
+    "requirements": [
+      "La Senda del Superviviente - Bestia Herida"
+    ]
+  },
+  {
+    "id": "5d25d2c186f77443e35162e5",
+    "name": "La Senda del Superviviente - A Sangre Fría",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Superviviente - Bestia Herida"
+    ]
+  },
+  {
+    "id": "5d25e29d86f7740a22516326",
+    "name": "La Senda del Superviviente - Búho Real",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Superviviente - Tipo Duro"
+    ]
+  },
+  {
+    "id": "5d25e2a986f77409dd5cdf2a",
+    "name": "La Senda del Superviviente - Médico de Combate",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Superviviente - Búho Real"
+    ]
+  },
+  {
+    "id": "5d25e2b486f77409de05bba0",
+    "name": "La Senda del Cazador - Perímetro Asegurado",
+    "trader": "Jaeger",
+    "map": "Factory",
+    "requirements": [
+      "El Tirador de Tarkov - Parte 3",
+      "La Senda del Superviviente - Tipo Duro"
+    ]
+  },
+  {
+    "id": "5d25e2c386f77443e7549029",
+    "name": "La Senda del Cazador - Trofeo",
+    "trader": "Jaeger",
+    "map": "Customs",
+    "requirements": [
+      "La Senda del Cazador - Perímetro Asegurado"
+    ]
+  },
+  {
+    "id": "5d25e2cc86f77443e47ae019",
+    "name": "La Senda del Cazador - Deforestación",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Cazador - Perímetro Asegurado"
+    ]
+  },
+  {
+    "id": "5d25e2d886f77442734d335e",
+    "name": "La Senda del Cazador - Controlador",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Cazador - Deforestación"
+    ]
+  },
+  {
+    "id": "5d25e2e286f77444001e2e48",
+    "name": "La Senda del Cazador - Liquidación",
+    "trader": "Jaeger",
+    "map": "Interchange",
+    "requirements": [
+      "La Senda del Cazador - Deforestación",
+      "Ventas Nocturnas"
+    ]
+  },
+  {
+    "id": "5d25e2ee86f77443e35162ea",
+    "name": "La Senda del Cazador - Guardabosques",
+    "trader": "Jaeger",
+    "map": "Woods",
+    "requirements": [
+      "La Senda del Cazador - Perímetro Asegurado",
+      "Planes de Suministro"
+    ]
+  },
+  {
+    "id": "5d25e43786f7740a212217fa",
+    "name": "La Senda del Cazador - Justicia",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Cazador - Trofeo"
+    ]
+  },
+  {
+    "id": "5d25e44386f77409453bce7b",
+    "name": "La Senda del Cazador - Vigilante Cabreado",
+    "trader": "Jaeger",
+    "map": "Customs",
+    "requirements": [
+      "La Senda del Cazador - Deforestación"
+    ]
+  },
+  {
+    "id": "5d25e44f86f77443e625e385",
+    "name": "La Senda del Cazador - Exterminador - Parte 1",
+    "trader": "Jaeger",
+    "map": "Reserve",
+    "requirements": [
+      "Control de Plagas"
+    ]
+  },
+  {
+    "id": "5d25e45e86f77408251c4bfa",
+    "name": "La Senda del Cazador - Exterminador - Parte 2",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Cazador - Exterminador - Parte 1",
+      "La Senda del Cazador - Perímetro Asegurado"
+    ]
+  },
+  {
+    "id": "5d25e46e86f77409453bce7c",
+    "name": "Ambulancia",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "Negocios Turbios"
+    ]
+  },
+  {
+    "id": "5d25e48186f77443e625e386",
+    "name": "Visita de Cortesía",
+    "trader": "Jaeger",
+    "map": "Shoreline",
+    "requirements": [
+      "La Senda del Superviviente - Tipo Duro"
+    ]
+  },
+  {
+    "id": "5d25e48d86f77408251c4bfb",
+    "name": "Negocios Turbios",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "¿Qué Hay en la Memoria USB?",
+      "Ligero y Peligroso"
+    ]
+  },
+  {
+    "id": "5d25e4ad86f77443e625e387",
+    "name": "Nostalgia",
+    "trader": "Jaeger",
+    "map": "Shoreline",
+    "requirements": [
+      "Visita de Cortesía"
+    ]
+  },
+  {
+    "id": "5d25e4b786f77408251c4bfc",
+    "name": "El Caladero",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "Nostalgia"
+    ]
+  },
+  {
+    "id": "5d25e4ca86f77409dd5cdf2c",
+    "name": "Cacería",
+    "trader": "Jaeger",
+    "map": "Woods",
+    "requirements": [
+      "La Senda del Cazador - Guardabosques"
+    ]
+  },
+  {
+    "id": "5d25e4d586f77443e625e388",
+    "name": "Reserva",
+    "trader": "Jaeger",
+    "map": "Reserve",
+    "requirements": [
+      "La Salchicha Deliciosa"
+    ]
+  },
+  {
+    "id": "5d4bec3486f7743cac246665",
+    "name": "Materiales de Encargo",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "El Vagabundo de la Polikhim"
+    ]
+  },
+  {
+    "id": "5d6fb2c086f77449da599c24",
+    "name": "Una Manzana cada Día, de Médico te Ahorraría",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Atención Médica - Parte 4"
+    ]
+  },
+  {
+    "id": "5d6fbc2886f77449d825f9d3",
+    "name": "Mentor",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Trabajo Sucio - Parte 5"
+    ]
+  },
+  {
+    "id": "5e381b0286f77420e3417a74",
+    "name": "Tejidos - Parte 1",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Cóselo Bien - Parte 4"
+    ]
+  },
+  {
+    "id": "5e383a6386f77465910ce1f3",
+    "name": "Tejidos - Parte 1",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Cóselo Bien - Parte 4"
+    ]
+  },
+  {
+    "id": "5e4d4ac186f774264f758336",
+    "name": "Tejidos - Parte 2",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Tejidos - Parte 1"
+    ]
+  },
+  {
+    "id": "5e4d515e86f77438b2195244",
+    "name": "Tejidos - Parte 2",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Tejidos - Parte 1"
+    ]
+  },
+  {
+    "id": "5eaaaa7c93afa0558f3b5a1c",
+    "name": "La Senda del Superviviente - Drogata",
+    "trader": "Jaeger",
+    "map": "Woods",
+    "requirements": [
+      "La Senda del Superviviente - Médico de Combate"
+    ]
+  },
+  {
+    "id": "5eda19f0edce541157209cee",
+    "name": "Anestesia",
+    "trader": "Prapor",
+    "map": "Shoreline",
+    "requirements": [
+      "Sacudiendo al cajero"
+    ]
+  },
+  {
+    "id": "5edab4b1218d181e29451435",
+    "name": "La Senda del Cazador - Sádico",
+    "trader": "Jaeger",
+    "map": "Shoreline",
+    "requirements": [
+      "Armario de Química",
+      "Compañeros - Parte 2",
+      "Juego Amañado"
+    ]
+  },
+  {
+    "id": "5edab736cc183c769d778bc2",
+    "name": "Compañeros - Parte 1",
+    "trader": "Therapist",
+    "map": "Shoreline",
+    "requirements": [
+      "Carne Enlatada"
+    ]
+  },
+  {
+    "id": "5edaba7c0c502106f869bc02",
+    "name": "Compañeros - Parte 2",
+    "trader": "Therapist",
+    "map": "Shoreline",
+    "requirements": [
+      "Compañeros - Parte 1"
+    ]
+  },
+  {
+    "id": "5edabd13218d181e29451442",
+    "name": "Juego Amañado",
+    "trader": "Skier",
+    "map": "Shoreline",
+    "requirements": [
+      "Anestesia"
+    ]
+  },
+  {
+    "id": "5edac020218d181e29451446",
+    "name": "Muestras",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Anestesia",
+      "Equipo de Pesca"
+    ]
+  },
+  {
+    "id": "5edac34d0bb72a50635c2bfa",
+    "name": "Compañeros - Parte 3",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "La Senda del Cazador - Sádico"
+    ]
+  },
+  {
+    "id": "5edac63b930f5454f51e128b",
+    "name": "Empleado de TerraGroup",
+    "trader": "Peacekeeper",
+    "map": "The Lab",
+    "requirements": [
+      "Compañeros - Parte 3",
+      "Muestras"
+    ]
+  },
+  {
+    "id": "5ede55112c95834b583f052a",
+    "name": "El Búnker - Parte 1",
+    "trader": "Prapor",
+    "map": "Reserve",
+    "requirements": [
+      "Oro Líquido"
+    ]
+  },
+  {
+    "id": "5ede567cfa6dc072ce15d6e3",
+    "name": "El Búnker - Parte 2",
+    "trader": "Prapor",
+    "map": "Reserve",
+    "requirements": [
+      "El Búnker - Parte 1"
+    ]
+  },
+  {
+    "id": "5f04886a3937dc337a6b8238",
+    "name": "Armario de Química",
+    "trader": "Mechanic",
+    "map": "Shoreline",
+    "requirements": [
+      "Anestesia",
+      "Compañeros - Parte 1"
+    ]
+  },
+  {
+    "id": "5fd9fad9c1ce6b1a3b486d00",
+    "name": "Misión de Búsqueda",
+    "trader": "Prapor",
+    "map": "Woods",
+    "requirements": [
+      "Debut"
+    ]
+  },
+  {
+    "id": "600302d73b897b11364cd161",
+    "name": "Cazador",
+    "trader": "Jaeger",
+    "map": "Woods",
+    "requirements": [
+      "La Senda del Cazador - Guardabosques"
+    ]
+  },
+  {
+    "id": "6086c852c945025d41566124",
+    "name": "Revisión: Reserva",
+    "trader": "Peacekeeper",
+    "map": "Reserve",
+    "requirements": [
+      "Suministros Humanitarios"
+    ]
+  },
+  {
+    "id": "60896888e4a85c72ef3fa300",
+    "name": "Tecnologías Clasificadas",
+    "trader": "Peacekeeper",
+    "map": "Reserve",
+    "requirements": [
+      "Revisión: Reserva"
+    ]
+  },
+  {
+    "id": "60896b7bfa70fc097863b8f5",
+    "name": "Documentos",
+    "trader": "Prapor",
+    "map": "Reserve",
+    "requirements": [
+      "No hay lugar para los Renegados"
+    ]
+  },
+  {
+    "id": "60896bca6ee58f38c417d4f2",
+    "name": "No hay lugar para los Renegados",
+    "trader": "Prapor",
+    "map": "Reserve",
+    "requirements": [
+      "El Búnker - Parte 2"
+    ]
+  },
+  {
+    "id": "60896e28e4a85c72ef3fa301",
+    "name": "Historial Clínico",
+    "trader": "Therapist",
+    "map": "Reserve",
+    "requirements": [
+      "Farmacéutico"
+    ]
+  },
+  {
+    "id": "6089732b59b92115597ad789",
+    "name": "Excedentes",
+    "trader": "Mechanic",
+    "map": "Reserve",
+    "requirements": [
+      "Puerta Trasera"
+    ]
+  },
+  {
+    "id": "6089736efa70fc097863b8f6",
+    "name": "Puerta Trasera",
+    "trader": "Mechanic",
+    "map": "Reserve",
+    "requirements": [
+      "Explorador"
+    ]
+  },
+  {
+    "id": "6089743983426423753cd58a",
+    "name": "Corredor Seguro",
+    "trader": "Skier",
+    "map": "Reserve",
+    "requirements": [
+      "Químico - Parte 4"
+    ]
+  },
+  {
+    "id": "608974af4b05530f55550c21",
+    "name": "Comprobación de Inventario",
+    "trader": "Ragman",
+    "map": "Reserve",
+    "requirements": [
+      "El Combustible Importa"
+    ]
+  },
+  {
+    "id": "608974d01a66564e74191fc0",
+    "name": "El Combustible Importa",
+    "trader": "Ragman",
+    "map": "Reserve",
+    "requirements": [
+      "Sangre de Guerra - Parte 1"
+    ]
+  },
+  {
+    "id": "608a768d82e40b3c727fd17d",
+    "name": "Control de Plagas",
+    "trader": "Jaeger",
+    "map": "Reserve",
+    "requirements": [
+      "Reserva"
+    ]
+  },
+  {
+    "id": "60c0c018f7afb4354815096a",
+    "name": "La Senda del Cazador - Jefe de Fábrica",
+    "trader": "Jaeger",
+    "map": "Factory",
+    "requirements": [
+      "Explorador",
+      "La Senda del Cazador - Deforestación"
+    ]
+  },
+  {
+    "id": "60e71b62a0beca400d69efc4",
+    "name": "Escolta",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "The Punisher - Parte 6"
+    ]
+  },
+  {
+    "id": "60e71b9bbd90872cb85440f3",
+    "name": "Capturando Avanzadas",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "The Punisher - Parte 6"
+    ]
+  },
+  {
+    "id": "60e71bb4e456d449cd47ca75",
+    "name": "Intimidador",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "The Punisher - Parte 6"
+    ]
+  },
+  {
+    "id": "60e71c11d54b755a3b53eb65",
+    "name": "Limpieza Nocturna",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Juego Amañado"
+    ]
+  },
+  {
+    "id": "60e71c48c1bfa3050473b8e5",
+    "name": "Crisis",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Atleta"
+    ]
+  },
+  {
+    "id": "60e71c9ad54b755a3b53eb66",
+    "name": "El Limpiador",
+    "trader": "Peacekeeper",
+    "map": "Reserve",
+    "requirements": [
+      "El Sherpa"
+    ]
+  },
+  {
+    "id": "60e71ccb5688f6424c7bfec4",
+    "name": "Trofeos",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Equipo de Pesca",
+      "La Senda del Cazador - Deforestación"
+    ]
+  },
+  {
+    "id": "60e71ce009d7c801eb0c0ec6",
+    "name": "Equipamiento Especial",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Trofeos"
+    ]
+  },
+  {
+    "id": "60e71d23c1bfa3050473b8e6",
+    "name": "Calibración",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armario de Química"
+    ]
+  },
+  {
+    "id": "60e71d6d7fcf9c556f325055",
+    "name": "El Repartidor",
+    "trader": "Mechanic",
+    "map": "Customs",
+    "requirements": [
+      "Calibración"
+    ]
+  },
+  {
+    "id": "60e71dc0a94be721b065bbfc",
+    "name": "Una Larga Cola",
+    "trader": "Ragman",
+    "map": "Interchange",
+    "requirements": [
+      "El Encargado"
+    ]
+  },
+  {
+    "id": "60e71dc67fcf9c556f325056",
+    "name": "Alcohol",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Una Larga Cola"
+    ]
+  },
+  {
+    "id": "60e71e8ed54b755a3b53eb67",
+    "name": "La Senda del Cazador - Implacable",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Cazador - Exterminador - Parte 1",
+      "La Senda del Cazador - Guardabosques",
+      "La Senda del Cazador - Jefe de Fábrica",
+      "La Senda del Cazador - Liquidación",
+      "La Senda del Cazador - Sádico",
+      "La Senda del Cazador - Trofeo"
+    ]
+  },
+  {
+    "id": "60e729cf5698ee7b05057439",
+    "name": "El Veloz",
+    "trader": "Jaeger",
+    "map": "Woods",
+    "requirements": [
+      "La Senda del Cazador - Sádico"
+    ]
+  },
+  {
+    "id": "60effd818b669d08a35bfad5",
+    "name": "La Elección",
+    "trader": "Fence",
+    "map": null,
+    "requirements": [
+      "The Punisher - Parte 6"
+    ]
+  },
+  {
+    "id": "6179ac7511973d018217d0b9",
+    "name": "Trabajo Fácil - Parte 1",
+    "trader": "Prapor",
+    "map": "Lighthouse",
+    "requirements": [
+      "The Punisher - Parte 2"
+    ]
+  },
+  {
+    "id": "6179acbdc760af5ad2053585",
+    "name": "Trabajo Fácil - Parte 2",
+    "trader": "Prapor",
+    "map": "Lighthouse",
+    "requirements": [
+      "Trabajo Fácil - Parte 1"
+    ]
+  },
+  {
+    "id": "6179ad0a6e9dd54ac275e3f2",
+    "name": "La Senda del Cazador - Proscritos",
+    "trader": "Jaeger",
+    "map": "Lighthouse",
+    "requirements": [
+      "La Senda del Cazador - Deforestación"
+    ]
+  },
+  {
+    "id": "6179ad56c760af5ad2053587",
+    "name": "Vacaciones Junto al Mar",
+    "trader": "Therapist",
+    "map": "Lighthouse",
+    "requirements": [
+      "Historial Clínico"
+    ]
+  },
+  {
+    "id": "6179afd0bca27a099552e040",
+    "name": "Contacto Perdido",
+    "trader": "Therapist",
+    "map": "Lighthouse",
+    "requirements": [
+      "Atención Médica - Parte 2"
+    ]
+  },
+  {
+    "id": "6179aff8f57fb279792c60a1",
+    "name": "Superpoblación",
+    "trader": "Peacekeeper",
+    "map": "Lighthouse",
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 1"
+    ]
+  },
+  {
+    "id": "6179b3a12153c15e937d52bc",
+    "name": "Crisis Energética",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Minando - Parte 4"
+    ]
+  },
+  {
+    "id": "6179b3bdc7560e13d23eeb8d",
+    "name": "Secretos Corporativos",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Minando - Parte 3"
+    ]
+  },
+  {
+    "id": "6179b4d1bca27a099552e04e",
+    "name": "Revisión: Lighthouse",
+    "trader": "Peacekeeper",
+    "map": "Lighthouse",
+    "requirements": [
+      "Revisión: Reserva"
+    ]
+  },
+  {
+    "id": "6179b4f16e9dd54ac275e407",
+    "name": "Cargamento Perdido",
+    "trader": "Skier",
+    "map": "Lighthouse",
+    "requirements": [
+      "Camino Largo"
+    ]
+  },
+  {
+    "id": "6179b5b06e9dd54ac275e409",
+    "name": "Nuestra Patria",
+    "trader": "Prapor",
+    "map": "Lighthouse",
+    "requirements": [
+      "The Punisher - Parte 5"
+    ]
+  },
+  {
+    "id": "6179b5eabca27a099552e052",
+    "name": "Contrarresto",
+    "trader": "Peacekeeper",
+    "map": "Lighthouse",
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 3"
+    ]
+  },
+  {
+    "id": "61904daa7d0d857927447b9c",
+    "name": "El Ermitaño",
+    "trader": "Jaeger",
+    "map": "Lighthouse",
+    "requirements": [
+      "La Senda del Superviviente - Tipo Duro"
+    ]
+  },
+  {
+    "id": "6193850f60b34236ee0483de",
+    "name": "Camino Largo",
+    "trader": "Skier",
+    "map": "Lighthouse",
+    "requirements": [
+      "Amigo Occidental - Parte 2"
+    ]
+  },
+  {
+    "id": "61958c366726521dd96828ec",
+    "name": "Cargamento Desconocido - Parte 4",
+    "trader": "Peacekeeper",
+    "map": "Lighthouse",
+    "requirements": [
+      "Cargamento Desconocido - Parte 3"
+    ]
+  },
+  {
+    "id": "61e6e5e0f5b9633f6719ed95",
+    "name": "Compensación por Daños - Confianza",
+    "trader": "Fence",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "61e6e60223374d168a4576a6",
+    "name": "Compensación por Daños - Apuesta",
+    "trader": "Fence",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "61e6e60c5ca3b3783662be27",
+    "name": "Compensación por Daños - Wergild",
+    "trader": "Fence",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "61e6e615eea2935bc018a2c5",
+    "name": "Compensación por Daños - Barman",
+    "trader": "Fence",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "61e6e621bfeab00251576265",
+    "name": "Compensación por Daños - Colección",
+    "trader": "Fence",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "625d6ff5ddc94657c21a1625",
+    "name": "Proveedor de Red - Parte 1",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 10",
+      "Arresto Domiciliario - Parte 1",
+      "Base de Datos - Parte 2",
+      "Cargamento Desconocido - Parte 4",
+      "Contacto Perdido",
+      "El Combustible Importa",
+      "El Culto - Parte 2",
+      "La Senda del Cazador - Deforestación",
+      "Químico - Parte 4",
+      "The Punisher - Parte 4",
+      "Transmisión - Parte 2",
+      "Vacaciones Junto al Mar",
+      "Visita de Cortesía"
+    ]
+  },
+  {
+    "id": "625d6ffaf7308432be1d44c5",
+    "name": "Proveedor de Red - Parte 2",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Proveedor de Red - Parte 1"
+    ]
+  },
+  {
+    "id": "625d6ffcaa168e51321d69d7",
+    "name": "Evaluación - Parte 1",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Proveedor de Red - Parte 2"
+    ]
+  },
+  {
+    "id": "625d6fff4149f1149b5b12c9",
+    "name": "Evaluación - Parte 2",
+    "trader": "Mechanic",
+    "map": "Woods",
+    "requirements": [
+      "Evaluación - Parte 1"
+    ]
+  },
+  {
+    "id": "625d7001c4874104f230c0c5",
+    "name": "Evaluación - Parte 3",
+    "trader": "Mechanic",
+    "map": "The Lab",
+    "requirements": [
+      "Evaluación - Parte 2"
+    ]
+  },
+  {
+    "id": "625d70031ed3bb5bcc5bd9e5",
+    "name": "Llave de la Torre",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Evaluación - Parte 3"
+    ]
+  },
+  {
+    "id": "625d7005a4eb80027c4f2e09",
+    "name": "Toc-Toc",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Llave de la Torre"
+    ]
+  },
+  {
+    "id": "625d700cc48e6c62a440fab5",
+    "name": "Familiarización",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Toc-Toc"
+    ]
+  },
+  {
+    "id": "626148251ed3bb5bcc5bd9ed",
+    "name": "Arreglar las Cosas - Adquisición",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Familiarización"
+    ]
+  },
+  {
+    "id": "6261482fa4eb80027c4f2e11",
+    "name": "Arreglar las Cosas - Equipamiento",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Arreglar las Cosas - Adquisición"
+    ]
+  },
+  {
+    "id": "626148334149f1149b5b12ca",
+    "name": "Arreglar las Cosas - Seguridad",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Arreglar las Cosas"
+    ]
+  },
+  {
+    "id": "62614836f7308432be1d44cc",
+    "name": "Arreglar las Cosas - Barrer",
+    "trader": "Mechanic",
+    "map": "Reserve",
+    "requirements": [
+      "Arreglar las Cosas - Seguridad"
+    ]
+  },
+  {
+    "id": "6261483ac48e6c62a440fab7",
+    "name": "Arreglar las Cosas - Software",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Arreglar las Cosas"
+    ]
+  },
+  {
+    "id": "6261483dc4874104f230c0cd",
+    "name": "Arreglar las Cosas - Cuarentena",
+    "trader": "Mechanic",
+    "map": "The Lab",
+    "requirements": [
+      "Arreglar las Cosas - Software"
+    ]
+  },
+  {
+    "id": "626bd75b05f287031503c7f6",
+    "name": "Tráfico de Drogas",
+    "trader": "Therapist",
+    "map": "Lighthouse",
+    "requirements": [
+      "Contacto Perdido"
+    ]
+  },
+  {
+    "id": "626bd75c71bd851e971b82a5",
+    "name": "Reconocimiento",
+    "trader": "Prapor",
+    "map": "Lighthouse",
+    "requirements": [
+      "Trabajo Fácil - Parte 1"
+    ]
+  },
+  {
+    "id": "626bd75d5bef5d7d590bd415",
+    "name": "Alto Secreto",
+    "trader": "Skier",
+    "map": "Lighthouse",
+    "requirements": [
+      "Cargamento Perdido",
+      "Familiarización"
+    ]
+  },
+  {
+    "id": "626bd75e47ea7f506e5493c5",
+    "name": "Transmisión - Parte 1",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Minando - Parte 2"
+    ]
+  },
+  {
+    "id": "626bdcc3a371ee3a7a3514c5",
+    "name": "Perros Callejeros",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Cazador - Guardabosques",
+      "La Senda del Cazador - Liquidación",
+      "La Senda del Cazador - Trofeo"
+    ]
+  },
+  {
+    "id": "638fcd23dc65553116701d33",
+    "name": "Auditoría",
+    "trader": "Ragman",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Solo Negocios"
+    ]
+  },
+  {
+    "id": "639135534b15ca31f76bc317",
+    "name": "Tu Coche Necesita una Revisión",
+    "trader": "Peacekeeper",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Cargamento Desconocido - Parte 4"
+    ]
+  },
+  {
+    "id": "6391359b9444fb141f4e6ee6",
+    "name": "Tienes Correo",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "El Mensajero - Parte 1"
+    ]
+  },
+  {
+    "id": "639135a7e705511c8a4a1b78",
+    "name": "Amante del Ballet",
+    "trader": "Ragman",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Auditoría"
+    ]
+  },
+  {
+    "id": "639135b04ed9512be67647d7",
+    "name": "Gloria al PCUS - Parte 1",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Tienes Correo"
+    ]
+  },
+  {
+    "id": "639135bbc115f907b14700a6",
+    "name": "Melómano",
+    "trader": "Ragman",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "¡EMP y Adiós!",
+      "Amante del Ballet"
+    ]
+  },
+  {
+    "id": "639135c3744e452011470807",
+    "name": "Arresto Domiciliario - Parte 1",
+    "trader": "Skier",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Deudor"
+    ]
+  },
+  {
+    "id": "639135cd8ba6894d155e77cb",
+    "name": "Arresto Domiciliario - Parte 2",
+    "trader": "Skier",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Arresto Domiciliario - Parte 1"
+    ]
+  },
+  {
+    "id": "639135d89444fb141f4e6eea",
+    "name": "Censo de Población",
+    "trader": "Therapist",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Farmacéutico"
+    ]
+  },
+  {
+    "id": "639135e0fa894f0a866afde6",
+    "name": "Medicina Urbana",
+    "trader": "Therapist",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Censo de Población"
+    ]
+  },
+  {
+    "id": "639135e8c115f907b14700aa",
+    "name": "Vigilancia",
+    "trader": "Mechanic",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Secretos Corporativos",
+      "Transmisión - Parte 2"
+    ]
+  },
+  {
+    "id": "639135f286e646067c176a87",
+    "name": "Revisión - Streets of Tarkov",
+    "trader": "Peacekeeper",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Revisión: Reserva"
+    ]
+  },
+  {
+    "id": "639136d68ba6894d155e77cf",
+    "name": "Corredor Seguro",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 7"
+    ]
+  },
+  {
+    "id": "639136df4b15ca31f76bc31f",
+    "name": "La Senda del Cazador - Administrador",
+    "trader": "Jaeger",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "La Senda del Cazador - Deforestación"
+    ]
+  },
+  {
+    "id": "639136e84ed9512be67647db",
+    "name": "¡Alto el Fuego!",
+    "trader": "Jaeger",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "La Salchicha Deliciosa"
+    ]
+  },
+  {
+    "id": "639136f086e646067c176a8b",
+    "name": "Reyes de los Tejados",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "The Punisher - Parte 4"
+    ]
+  },
+  {
+    "id": "639136fa9444fb141f4e6eee",
+    "name": "Vigilándote",
+    "trader": "Mechanic",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Transmisión - Parte 2"
+    ]
+  },
+  {
+    "id": "63913715f8e5dd32bf4e3aaa",
+    "name": "Transmisión - Parte 2",
+    "trader": "Mechanic",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Transmisión - Parte 1"
+    ]
+  },
+  {
+    "id": "6391372c8ba6894d155e77d7",
+    "name": "Transmisión - Parte 4",
+    "trader": "Jaeger",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Transmisión - Parte 3"
+    ]
+  },
+  {
+    "id": "6391d90f4ed9512be67647df",
+    "name": "Arreglar las Cosas",
+    "trader": "Mechanic",
+    "map": "Lighthouse",
+    "requirements": [
+      "Arreglar las Cosas - Equipamiento"
+    ]
+  },
+  {
+    "id": "6391d912f8e5dd32bf4e3ab2",
+    "name": "Arreglar las Cosas",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Arreglar las Cosas - Barrer"
+    ]
+  },
+  {
+    "id": "6391d9144b15ca31f76bc323",
+    "name": "Arreglar las Cosas",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Arreglar las Cosas - Cuarentena"
+    ]
+  },
+  {
+    "id": "639282134ed9512be67647ed",
+    "name": "Carretera Cortada",
+    "trader": "Peacekeeper",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Vacaciones en el Balneario - Parte 7"
+    ]
+  },
+  {
+    "id": "63966faeea19ac7ed845db2c",
+    "name": "Fuente de Información",
+    "trader": "Lightkeeper",
+    "map": null,
+    "requirements": [
+      "Toc-Toc"
+    ]
+  },
+  {
+    "id": "63966fbeea19ac7ed845db2e",
+    "name": "Informador Desaparecido",
+    "trader": "Lightkeeper",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Fuente de Información"
+    ]
+  },
+  {
+    "id": "63966fccac6f8f3c677b9d89",
+    "name": "Robo",
+    "trader": "Lightkeeper",
+    "map": null,
+    "requirements": [
+      "Informador Desaparecido"
+    ]
+  },
+  {
+    "id": "63966fd9ea19ac7ed845db30",
+    "name": "Venganza",
+    "trader": "Lightkeeper",
+    "map": "Reserve",
+    "requirements": [
+      "Devolviendo el Favor"
+    ]
+  },
+  {
+    "id": "63966fe7ea74a47c2d3fc0e6",
+    "name": "Devolviendo el Favor",
+    "trader": "Lightkeeper",
+    "map": "Woods",
+    "requirements": [
+      "Robo"
+    ]
+  },
+  {
+    "id": "63966ff54c3ef01b6f3ffad8",
+    "name": "Provocación",
+    "trader": "Lightkeeper",
+    "map": "Interchange",
+    "requirements": [
+      "Venganza"
+    ]
+  },
+  {
+    "id": "639670029113f06a7c3b2377",
+    "name": "Siguiendo el Rastro de Migajas",
+    "trader": "Lightkeeper",
+    "map": null,
+    "requirements": [
+      "Provocación"
+    ]
+  },
+  {
+    "id": "6396700fea19ac7ed845db32",
+    "name": "Observador",
+    "trader": "Lightkeeper",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Siguiendo el Rastro de Migajas"
+    ]
+  },
+  {
+    "id": "6396701b9113f06a7c3b2379",
+    "name": "Dejar Huella",
+    "trader": "Lightkeeper",
+    "map": null,
+    "requirements": [
+      "Observador"
+    ]
+  },
+  {
+    "id": "63967028c4a91c5cb76abd81",
+    "name": "Problemas en la Gran Ciudad",
+    "trader": "Lightkeeper",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Dejar Huella"
+    ]
+  },
+  {
+    "id": "639872f9decada40426d3447",
+    "name": "Armero - Parte 4",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 2",
+      "Armero - Parte 3"
+    ]
+  },
+  {
+    "id": "639872fa9b4fb827b200d8e5",
+    "name": "Armero - Parte 9",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 8"
+    ]
+  },
+  {
+    "id": "639872fc93ae507d5858c3a6",
+    "name": "Armero - Parte 11",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 10"
+    ]
+  },
+  {
+    "id": "639872fe8871e1272b10ccf6",
+    "name": "Armero - Parte 14",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 13"
+    ]
+  },
+  {
+    "id": "639873003693c63d86328f25",
+    "name": "Armero - Parte 19",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 18"
+    ]
+  },
+  {
+    "id": "63987301e11ec11ff5504036",
+    "name": "Armero - Parte 21",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 20"
+    ]
+  },
+  {
+    "id": "639dbaf17c898a131e1cffff",
+    "name": "Deudor",
+    "trader": "Skier",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Comprando Amigos"
+    ]
+  },
+  {
+    "id": "63a511ea30d85e10e375b045",
+    "name": "Transmisión - Parte 3",
+    "trader": "Jaeger",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Transmisión - Parte 2"
+    ]
+  },
+  {
+    "id": "63a5cf262964a7488f5243ce",
+    "name": "Prueba de Conducción - Parte 2",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Prueba de Conducción - Parte 1"
+    ]
+  },
+  {
+    "id": "63a88045abf76d719f42d715",
+    "name": "La Salchicha Deliciosa",
+    "trader": "Jaeger",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "La Senda del Superviviente - Previsor"
+    ]
+  },
+  {
+    "id": "63a9ae24009ffc6a551631a5",
+    "name": "El Mejor Trabajo del Mundo",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Reyes de los Tejados",
+      "The Punisher - Parte 6"
+    ]
+  },
+  {
+    "id": "63a9b229813bba58a50c9ee5",
+    "name": "El Peor Trabajo del Mundo",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Revisión - Streets of Tarkov",
+      "Trabajo Sucio - Parte 5"
+    ]
+  },
+  {
+    "id": "63a9b36cc31b00242d28a99f",
+    "name": "Matadero",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "La Senda del Cazador - Administrador",
+      "Transmisión - Parte 4"
+    ]
+  },
+  {
+    "id": "63ab180c87413d64ae0ac20a",
+    "name": "Carretera Peligrosa",
+    "trader": "Therapist",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Planes de Suministro"
+    ]
+  },
+  {
+    "id": "64e7b971f9d6fa49d6769b44",
+    "name": "La Senda del Cazador - Caza Mayor",
+    "trader": "Jaeger",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "La Senda del Cazador - Deforestación",
+      "Medicina Urbana"
+    ]
+  },
+  {
+    "id": "64e7b99017ab941a6f7bf9d7",
+    "name": "Gendarmería - Policía del Centro Comercial",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "The Punisher - Parte 6"
+    ]
+  },
+  {
+    "id": "64e7b9a4aac4cd0a726562cb",
+    "name": "Gendarmería - Entradas, Por Favor",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Gendarmería - Policía del Centro Comercial"
+    ]
+  },
+  {
+    "id": "64e7b9bffd30422ed03dad38",
+    "name": "Gendarmería - Patrulla del Distrito",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Gendarmería - Entradas, Por Favor"
+    ]
+  },
+  {
+    "id": "64ee99639878a0569d6ec8c9",
+    "name": "Transmisión - Parte 5",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "Transmisión - Parte 4"
+    ]
+  },
+  {
+    "id": "64ee9df4496db64f9b7a4432",
+    "name": "La Puerta",
+    "trader": "Mechanic",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "La Señal - Parte 3"
+    ]
+  },
+  {
+    "id": "64f3176921045e77405d63b5",
+    "name": "Ambulancias Otra Vez",
+    "trader": "Therapist",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "¡Alto el Fuego!",
+      "Medicina Urbana"
+    ]
+  },
+  {
+    "id": "64f5aac4b63b74469b6c14c2",
+    "name": "Gloria al PCUS - Parte 2",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Gloria al PCUS - Parte 1"
+    ]
+  },
+  {
+    "id": "64f5deac39e45b527a7c4232",
+    "name": "Prueba de Conducción - Parte 3",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Prueba de Conducción - Parte 2"
+    ]
+  },
+  {
+    "id": "64f5e20652fc01298e2c61e3",
+    "name": "Más allá de la Carne Roja - Parte 1",
+    "trader": "Skier",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Vitaminas - Parte 2"
+    ]
+  },
+  {
+    "id": "64f6aafd67e11a7c6206e0d0",
+    "name": "Más allá de la Carne Roja - Parte 2",
+    "trader": "Skier",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Más allá de la Carne Roja - Parte 1"
+    ]
+  },
+  {
+    "id": "64f731ab83cfca080a361e42",
+    "name": "Las Mascotas no lo Necesitarán - Parte 1",
+    "trader": "Therapist",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Censo de Población"
+    ]
+  },
+  {
+    "id": "64f83bb69878a0569d6ecfbe",
+    "name": "Armero - Parte 23",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 22"
+    ]
+  },
+  {
+    "id": "64f83bcdde58fc437700d8fa",
+    "name": "Armero - Parte 24",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 23"
+    ]
+  },
+  {
+    "id": "64f83bd983cfca080a362c82",
+    "name": "Armero - Parte 25",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 24"
+    ]
+  },
+  {
+    "id": "6572e876dc0d635f633a5714",
+    "name": "Esquema Piramidal",
+    "trader": "Skier",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Vitaminas - Parte 2"
+    ]
+  },
+  {
+    "id": "657315ddab5a49b71f098853",
+    "name": "Primero en la Línea",
+    "trader": "Therapist",
+    "map": "Ground Zero",
+    "requirements": []
+  },
+  {
+    "id": "657315df034d76585f032e01",
+    "name": "Disparando Latas",
+    "trader": "Prapor",
+    "map": "Ground Zero",
+    "requirements": []
+  },
+  {
+    "id": "657315e1dccd301f1301416a",
+    "name": "Vida Lujosa",
+    "trader": "Prapor",
+    "map": "Ground Zero",
+    "requirements": [
+      "Debut"
+    ]
+  },
+  {
+    "id": "657315e270bb0b8dba00cc48",
+    "name": "Quemando Llanta",
+    "trader": "Skier",
+    "map": "Ground Zero",
+    "requirements": []
+  },
+  {
+    "id": "657315e4a6af4ab4b50f3459",
+    "name": "Salvando al Topo",
+    "trader": "Mechanic",
+    "map": "Ground Zero",
+    "requirements": []
+  },
+  {
+    "id": "65733403eefc2c312a759ddb",
+    "name": "Secretos del Desarrollador - Parte 1",
+    "trader": "Mechanic",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Vigilancia"
+    ]
+  },
+  {
+    "id": "6573382e557ff128bf3da536",
+    "name": "Secretos del Desarrollador - Parte 2",
+    "trader": "Mechanic",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Secretos del Desarrollador - Parte 1"
+    ]
+  },
+  {
+    "id": "6573387d0b26ed4fde798de3",
+    "name": "Las Mascotas no lo Necesitarán - Parte 2",
+    "trader": "Therapist",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Las Mascotas no lo Necesitarán - Parte 1"
+    ]
+  },
+  {
+    "id": "6573397ef3f8344c4575cd87",
+    "name": "Propiedades en Todas Partes",
+    "trader": "Prapor",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Gloria al PCUS - Parte 2"
+    ]
+  },
+  {
+    "id": "65734c186dc1e402c80dc19e",
+    "name": "Los Chulos",
+    "trader": "Ragman",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Amante del Ballet"
+    ]
+  },
+  {
+    "id": "6574e0dedc0d635f633a5805",
+    "name": "Prueba de Conducción - Parte 4",
+    "trader": "Prapor",
+    "map": "Shoreline",
+    "requirements": [
+      "Prueba de Conducción - Parte 3"
+    ]
+  },
+  {
+    "id": "6578eb36e5020875d64645cd",
+    "name": "La Senda del Cazador - Policía Corrupto",
+    "trader": "Jaeger",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "La Senda del Cazador - Administrador"
+    ]
+  },
+  {
+    "id": "6578ec473dbd035d04531a8d",
+    "name": "Señal Estable",
+    "trader": "Mechanic",
+    "map": "Woods",
+    "requirements": [
+      "La Señal - Parte 4"
+    ]
+  },
+  {
+    "id": "658027799634223183395339",
+    "name": "No te lo Lleves",
+    "trader": "Skier",
+    "map": "Shoreline",
+    "requirements": [
+      "Comprando Amigos"
+    ]
+  },
+  {
+    "id": "65802b627b44fa5e14638899",
+    "name": "No Hay Nada Sospechoso Sobre Esto",
+    "trader": "Ragman",
+    "map": "Shoreline",
+    "requirements": [
+      "Rebajas en el ULTRA"
+    ]
+  },
+  {
+    "id": "66058cb22cee99303f1ba067",
+    "name": "Dinero Fácil - Parte 1 [ZONA PVP]",
+    "trader": "Skier",
+    "map": "Customs",
+    "requirements": [
+      "Quemando Llanta"
+    ]
+  },
+  {
+    "id": "66058cb5ae4719735349b9e8",
+    "name": "Dinero Fácil - Parte 2 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Dinero Fácil - Parte 1 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cb7c7f3584787181476",
+    "name": "Balanceo - Parte 1 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Dinero Fácil - Parte 2 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cb9e8e4f17985230805",
+    "name": "Balanceo - Parte 2 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Balanceo - Parte 1 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cbb06ef1d50a60c1f46",
+    "name": "Sorpresa [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Balanceo - Parte 2 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cbd9f59e625462acc8e",
+    "name": "Crea Una Distracción - Parte 1 [ZONA PVP]",
+    "trader": "Ref",
+    "map": "Ground Zero 21+",
+    "requirements": [
+      "Sorpresa [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cbf2f19c31a5a1337ec",
+    "name": "Crea Una Distracción - Parte 2 [ZONA PVP]",
+    "trader": "Ref",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Crea Una Distracción - Parte 1 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cc1da30b620a34e6e86",
+    "name": "¡Hacia Grandes Alturas! - Parte 1 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Fitness Profesional - Parte 2 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cc208308761cf390993",
+    "name": "¡Hacia Grandes Alturas! - Parte 2 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "¡Hacia Grandes Alturas! - Parte 1 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cc5bb83da7ba474aba9",
+    "name": "¡Hacia Grandes Alturas! - Parte 3 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "¡Hacia Grandes Alturas! - Parte 2 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cc72cee99303f1ba069",
+    "name": "¡Hacia Grandes Alturas! - Parte 4 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "¡Hacia Grandes Alturas! - Parte 3 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cc9ae4719735349b9ea",
+    "name": "¡Hacia Grandes Alturas! - Parte 5 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "¡Hacia Grandes Alturas! - Parte 4 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058ccbc7f3584787181478",
+    "name": "Contra la Conciencia - Parte 1 [ZONA PVP]",
+    "trader": "Ref",
+    "map": "Customs",
+    "requirements": [
+      "Crea Una Distracción - Parte 1 [ZONA PVP]",
+      "Mantener la Ventaja [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058ccde8e4f17985230807",
+    "name": "Contra la Conciencia - Parte 2 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Contra la Conciencia - Parte 1 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058ccf06ef1d50a60c1f48",
+    "name": "Entre Dos Fuegos [ZONA PVP]",
+    "trader": "Fence",
+    "map": "Customs",
+    "requirements": [
+      "Contra la Conciencia - Parte 2 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "66058cd19f59e625462acc90",
+    "name": "Decisiones, Decisiones [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Entre Dos Fuegos [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "6613f3007f6666d56807c929",
+    "name": "Alta Elegancia - Parte 1",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "¡EMP y Adiós!"
+    ]
+  },
+  {
+    "id": "6613f307fca4f2f386029409",
+    "name": "Alta Elegancia - Parte 2",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Los Chulos"
+    ]
+  },
+  {
+    "id": "66151401efb0539ae10875ae",
+    "name": "Alta Elegancia - Parte 1",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "¡EMP y Adiós!"
+    ]
+  },
+  {
+    "id": "6615141bfda04449120269a7",
+    "name": "Alta Elegancia - Parte 2",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Los Chulos"
+    ]
+  },
+  {
+    "id": "665eeacf5d86b6c8aa03c79b",
+    "name": "Sediento - Sabuesos",
+    "trader": "Jaeger",
+    "map": "Shoreline",
+    "requirements": [
+      "La Salchicha Deliciosa"
+    ]
+  },
+  {
+    "id": "665eec1f5e47a79f8605565a",
+    "name": "Sediento - Proveedor",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Sediento - Sabuesos"
+    ]
+  },
+  {
+    "id": "665eec4a4dfc83b0ed0a9dca",
+    "name": "Sediento - Entrega",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Sediento - Proveedor"
+    ]
+  },
+  {
+    "id": "665eeca45d86b6c8aa03c79d",
+    "name": "Sediento - Eco",
+    "trader": "Therapist",
+    "map": "Shoreline",
+    "requirements": [
+      "Sediento - Entrega"
+    ]
+  },
+  {
+    "id": "665eeca92f7aedcc900b0437",
+    "name": "Sediento - Secretos",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Sediento - Eco"
+    ]
+  },
+  {
+    "id": "66631489acf8442f8b05319f",
+    "name": "Amigo Entre Extraños",
+    "trader": "Fence",
+    "map": null,
+    "requirements": [
+      "Establecer Contacto"
+    ]
+  },
+  {
+    "id": "6663148ca9290f9e0806cca1",
+    "name": "Inmunidad",
+    "trader": "Fence",
+    "map": null,
+    "requirements": [
+      "Amigo Entre Extraños"
+    ]
+  },
+  {
+    "id": "6663148ed7f171c4c20226c1",
+    "name": "Pequeñas Empresas - Parte 1",
+    "trader": "Fence",
+    "map": null,
+    "requirements": [
+      "Inmunidad"
+    ]
+  },
+  {
+    "id": "6663149196a9349baa021baa",
+    "name": "Pequeñas Empresas - Parte 2",
+    "trader": "Fence",
+    "map": null,
+    "requirements": [
+      "Pequeñas Empresas - Parte 1"
+    ]
+  },
+  {
+    "id": "66631493312343839d032d22",
+    "name": "Pequeñas Empresas - Parte 3",
+    "trader": "Fence",
+    "map": null,
+    "requirements": [
+      "Pequeñas Empresas - Parte 2"
+    ]
+  },
+  {
+    "id": "6663149cfd5ca9577902e037",
+    "name": "La Mano Invisible",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Solo Negocios"
+    ]
+  },
+  {
+    "id": "6663149f1d3ec95634095e75",
+    "name": "Circular",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "La Mano Invisible"
+    ]
+  },
+  {
+    "id": "666314a1920800278d0f6746",
+    "name": "Oferta Especial",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Circular"
+    ]
+  },
+  {
+    "id": "666314a31cd52e3d040a2e76",
+    "name": "Probado en Combate",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Oferta Especial"
+    ]
+  },
+  {
+    "id": "666314a50aa5c7436c00908a",
+    "name": "Patrones Antiguos",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Probado en Combate"
+    ]
+  },
+  {
+    "id": "666314b0acf8442f8b0531a1",
+    "name": "El Infierno en la Tierra - Parte 1",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Los Buenos Tiempos - Parte 1"
+    ]
+  },
+  {
+    "id": "666314b2a9290f9e0806cca3",
+    "name": "El Infierno en la Tierra - Parte 2",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "El Infierno en la Tierra - Parte 1"
+    ]
+  },
+  {
+    "id": "666314b4d7f171c4c20226c3",
+    "name": "Los Buenos Tiempos - Parte 1",
+    "trader": "Prapor",
+    "map": "Factory",
+    "requirements": [
+      "Disparando Latas"
+    ]
+  },
+  {
+    "id": "666314b696a9349baa021bac",
+    "name": "Estándar de Calidad",
+    "trader": "Therapist",
+    "map": "The Lab",
+    "requirements": [
+      "Los Buenos Tiempos - Parte 1"
+    ]
+  },
+  {
+    "id": "666314b8312343839d032d24",
+    "name": "Correo Aéreo",
+    "trader": "Mechanic",
+    "map": "Woods",
+    "requirements": [
+      "Estándar de Calidad"
+    ]
+  },
+  {
+    "id": "666314bafd5ca9577902e03a",
+    "name": "Los Buenos Tiempos - Parte 2",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Correo Aéreo"
+    ]
+  },
+  {
+    "id": "666314bc1d3ec95634095e77",
+    "name": "Un Minuto de Fama",
+    "trader": "Skier",
+    "map": "Interchange",
+    "requirements": [
+      "Los Buenos Tiempos - Parte 2"
+    ]
+  },
+  {
+    "id": "666314bd920800278d0f6748",
+    "name": "Espectador",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Un Minuto de Fama"
+    ]
+  },
+  {
+    "id": "666314bf1cd52e3d040a2e78",
+    "name": "Acusaciones Serias",
+    "trader": "Skier",
+    "map": "Shoreline",
+    "requirements": [
+      "Espectador"
+    ]
+  },
+  {
+    "id": "666314c10aa5c7436c00908c",
+    "name": "¡Cámara, Acción!",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Acusaciones Serias"
+    ]
+  },
+  {
+    "id": "666314c3acf8442f8b0531a3",
+    "name": "Respuesta Apropiada",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "¡Cámara, Acción!"
+    ]
+  },
+  {
+    "id": "666314c5a9290f9e0806cca5",
+    "name": "Llave de la Ciudad",
+    "trader": "Ragman",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Respuesta Apropiada"
+    ]
+  },
+  {
+    "id": "6672d9def1c88688a707d042",
+    "name": "Establecer Contacto",
+    "trader": "Fence",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "669fa38fad7f1eac2607ed46",
+    "name": "Una Cosa Menos",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Superpoblación"
+    ]
+  },
+  {
+    "id": "669fa3910c828825de06d69f",
+    "name": "Una Alternativa Saludable",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Una Cosa Menos"
+    ]
+  },
+  {
+    "id": "669fa394e0c9f9fafa082897",
+    "name": "Certificado para Montacargas",
+    "trader": "Mechanic",
+    "map": "Factory",
+    "requirements": [
+      "Cisne Negro"
+    ]
+  },
+  {
+    "id": "669fa395c4c5c04798002497",
+    "name": "Salida Aquí",
+    "trader": "Skier",
+    "map": "Factory",
+    "requirements": [
+      "Explorador"
+    ]
+  },
+  {
+    "id": "669fa3979b0ce3feae01a130",
+    "name": "Claustrofobia",
+    "trader": "Jaeger",
+    "map": "Factory",
+    "requirements": [
+      "La Senda del Cazador - Deforestación"
+    ]
+  },
+  {
+    "id": "669fa399033a3ce9870338a8",
+    "name": "Possessor",
+    "trader": "Prapor",
+    "map": "Factory",
+    "requirements": [
+      "El Mensajero - Parte 1"
+    ]
+  },
+  {
+    "id": "669fa39b91b0a8c9680fc467",
+    "name": "Cisne Negro",
+    "trader": "Mechanic",
+    "map": "Factory",
+    "requirements": [
+      "Explorador"
+    ]
+  },
+  {
+    "id": "669fa39c64ea11e84c0642a6",
+    "name": "Las Paredes Tienen Ojos",
+    "trader": "Skier",
+    "map": "Factory",
+    "requirements": [
+      "Salida Aquí"
+    ]
+  },
+  {
+    "id": "669fa39ee749756c920d02c8",
+    "name": "Todo Está Revelado",
+    "trader": "Therapist",
+    "map": "Factory",
+    "requirements": [
+      "Control de Capacidad"
+    ]
+  },
+  {
+    "id": "669fa3a08b4a64b332041ff7",
+    "name": "Dragnet",
+    "trader": "Jaeger",
+    "map": "Factory",
+    "requirements": [
+      "Una Cosa Menos"
+    ]
+  },
+  {
+    "id": "669fa3a1c26f13bd04030f37",
+    "name": "Control de Capacidad",
+    "trader": "Mechanic",
+    "map": "Factory",
+    "requirements": [
+      "Certificado para Montacargas",
+      "Minando - Parte 1"
+    ]
+  },
+  {
+    "id": "669fa3a3ad7f1eac2607ed48",
+    "name": "Atención Médica - Parte 6",
+    "trader": "Therapist",
+    "map": "Factory",
+    "requirements": [
+      "Atención Médica - Parte 5"
+    ]
+  },
+  {
+    "id": "669fa3a40c828825de06d6a1",
+    "name": "Prueba de Conducción - Parte 5",
+    "trader": "Prapor",
+    "map": "Factory",
+    "requirements": [
+      "Prueba de Conducción - Parte 4"
+    ]
+  },
+  {
+    "id": "66aa58245ab22944110db6e9",
+    "name": "Día Nuevo, Caminos Nuevos",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Revisión - Streets of Tarkov"
+    ]
+  },
+  {
+    "id": "66aa61663aa37705c5024277",
+    "name": "¡Conoce Tu Lugar!",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Sangre de Guerra - Parte 3"
+    ]
+  },
+  {
+    "id": "66aa74571e5e199ecd094f18",
+    "name": "Secretos de la Polikhim",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Control de Capacidad"
+    ]
+  },
+  {
+    "id": "66ab970848ddbe9d4a0c49a8",
+    "name": "Comunicaciones Especiales",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Documentos"
+    ]
+  },
+  {
+    "id": "66ab9da7eb102b9bcd08591c",
+    "name": "El Deber del Guardabosques",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "Nostalgia"
+    ]
+  },
+  {
+    "id": "66aba85403e0ee3101042877",
+    "name": "Debajo de las Calles",
+    "trader": "Therapist",
+    "map": null,
+    "requirements": [
+      "Las Mascotas no lo Necesitarán - Parte 2"
+    ]
+  },
+  {
+    "id": "66b38c7bf85b8bf7250f9cb6",
+    "name": "Tarkov Despiadado",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "Ligero y Peligroso"
+    ]
+  },
+  {
+    "id": "66b38e144f2ab7cc530c3fe7",
+    "name": "Todo Cazador Sabe Esto",
+    "trader": "Jaeger",
+    "map": null,
+    "requirements": [
+      "Tarkov Despiadado"
+    ]
+  },
+  {
+    "id": "66d9cbb67b491f9d5304f6e6",
+    "name": "¿Esto es una Referencia?",
+    "trader": "Fence",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "671a49f77d49aea42c029b5f",
+    "name": "Irresistible",
+    "trader": "Skier",
+    "map": "Interchange",
+    "requirements": [
+      "Curtido"
+    ]
+  },
+  {
+    "id": "671a59e43d73dac1360765cc",
+    "name": "Utilería Peligrosa",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Irresistible"
+    ]
+  },
+  {
+    "id": "673f2cd5d3346c2167020484",
+    "name": "Retraso en el Envío - Parte 2",
+    "trader": "Conductor del BTR",
+    "map": "Woods",
+    "requirements": [
+      "Una Mano Amiga"
+    ]
+  },
+  {
+    "id": "673f348dd3346c21670217e7",
+    "name": "Retraso en el Envío - Parte 1",
+    "trader": "Prapor",
+    "map": "Woods",
+    "requirements": [
+      "Una Mano Amiga"
+    ]
+  },
+  {
+    "id": "673f4e956f1b89c7bc0f56ef",
+    "name": "Hot Wheels",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Retraso en el Envío - Parte 1"
+    ]
+  },
+  {
+    "id": "673f5a4976553f78350bdac1",
+    "name": "Hot Wheels - Intentemos Otra Vez",
+    "trader": "Conductor del BTR",
+    "map": "Reserve",
+    "requirements": [
+      "Hot Wheels"
+    ]
+  },
+  {
+    "id": "673f6027352b4da8e00322d2",
+    "name": "Respuesta Inevitable",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Hot Wheels - Intentemos Otra Vez"
+    ]
+  },
+  {
+    "id": "673f61a066e6a521aa04b62b",
+    "name": "Orden Del Exterior",
+    "trader": "Lightkeeper",
+    "map": null,
+    "requirements": [
+      "Respuesta Inevitable"
+    ]
+  },
+  {
+    "id": "673f629c5b555b53460cf827",
+    "name": "Cimientos de Construcción",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Represalia Rápida"
+    ]
+  },
+  {
+    "id": "6740a02a69a58fceba0ff399",
+    "name": "Intercambio Natural",
+    "trader": "Conductor del BTR",
+    "map": "Shoreline",
+    "requirements": [
+      "Cimientos de Construcción"
+    ]
+  },
+  {
+    "id": "6740a15566e6a521aa051b15",
+    "name": "Forjar una Amistad",
+    "trader": "Prapor",
+    "map": "Shoreline",
+    "requirements": [
+      "Intercambio Natural",
+      "Represalia Rápida"
+    ]
+  },
+  {
+    "id": "6740a2c17e3818d5bb0648b6",
+    "name": "Medio Vacío",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Forjar una Amistad"
+    ]
+  },
+  {
+    "id": "6740a3f4eca8acb2d2055159",
+    "name": "Un Palo Entre las Ruedas",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Medio Vacío"
+    ]
+  },
+  {
+    "id": "6740b60c60a98cad1b0e0aa0",
+    "name": "Otro Retraso en el Envío",
+    "trader": "Ragman",
+    "map": "Woods",
+    "requirements": [
+      "Intercambio Natural",
+      "Respuesta Inevitable"
+    ]
+  },
+  {
+    "id": "674492b6909d2013670a347a",
+    "name": "Preguntar por Direcciones",
+    "trader": "Conductor del BTR",
+    "map": "Lighthouse",
+    "requirements": [
+      "Otro Retraso en el Envío"
+    ]
+  },
+  {
+    "id": "6744a4717e3818d5bb0680bb",
+    "name": "Estabilizar Negocios",
+    "trader": "Ragman",
+    "map": "Ground Zero",
+    "requirements": [
+      "Preguntar por Direcciones"
+    ]
+  },
+  {
+    "id": "6744a728352b4da8e003eda9",
+    "name": "Cambio de Batería",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Un Palo Entre las Ruedas"
+    ]
+  },
+  {
+    "id": "6744a9dfef61d56e020b5c4a",
+    "name": "Cambio de Batería",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Estabilizar Negocios"
+    ]
+  },
+  {
+    "id": "6744ab1def61d56e020b5c56",
+    "name": "Proteger el Cielo",
+    "trader": "Conductor del BTR",
+    "map": "Woods",
+    "requirements": [
+      "Cambio de Batería"
+    ]
+  },
+  {
+    "id": "6744aca8d3346c216702c583",
+    "name": "Desconcertar",
+    "trader": "Conductor del BTR",
+    "map": "Woods",
+    "requirements": [
+      "Proteger el Cielo"
+    ]
+  },
+  {
+    "id": "6744af0969a58fceba101fed",
+    "name": "El Precio de la Independencia",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Cambio de Batería",
+      "Desconcertar"
+    ]
+  },
+  {
+    "id": "6745cbee909d2013670a4a55",
+    "name": "El Precio de la Independencia",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Cambio de Batería",
+      "Desconcertar"
+    ]
+  },
+  {
+    "id": "6745fae369a58fceba10343d",
+    "name": "Cuanto Más Alto Vuelan",
+    "trader": "Skier",
+    "map": "Woods",
+    "requirements": [
+      "Cimientos de Construcción"
+    ]
+  },
+  {
+    "id": "6745fcded0fbbc74ca0f721d",
+    "name": "Represalia Rápida",
+    "trader": "Conductor del BTR",
+    "map": "Woods",
+    "requirements": [
+      "Hot Wheels"
+    ]
+  },
+  {
+    "id": "6745fdddd3346c216702e0bf",
+    "name": "Trabajo Secundario Sencillo",
+    "trader": "Lightkeeper",
+    "map": null,
+    "requirements": [
+      "Represalia Rápida"
+    ]
+  },
+  {
+    "id": "674600a366e6a521aa05eb66",
+    "name": "Desviación de Ruta",
+    "trader": "Skier",
+    "map": "Streets of Tarkov",
+    "requirements": [
+      "Cuanto Más Alto Vuelan"
+    ]
+  },
+  {
+    "id": "674602307e3818d5bb069489",
+    "name": "Visión Retrospectiva 20/20",
+    "trader": "Skier",
+    "map": "Woods",
+    "requirements": [
+      "Desviación de Ruta"
+    ]
+  },
+  {
+    "id": "6746053b5b555b53460d9896",
+    "name": "Socio Clave",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Visión Retrospectiva 20/20"
+    ]
+  },
+  {
+    "id": "674605df60a98cad1b0ec799",
+    "name": "Argumento Asesino",
+    "trader": "Skier",
+    "map": "Woods",
+    "requirements": [
+      "Socio Clave"
+    ]
+  },
+  {
+    "id": "67460662d0fbbc74ca0f7229",
+    "name": "Elige a Tus Amigos Sabiamente",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Argumento Asesino",
+      "Desconcertar"
+    ]
+  },
+  {
+    "id": "6752f6d83038f7df520c83e8",
+    "name": "Una Mano Amiga",
+    "trader": "Mechanic",
+    "map": "Woods",
+    "requirements": [
+      "Salvando al Topo"
+    ]
+  },
+  {
+    "id": "675c03d1f7da9792a405549a",
+    "name": "Carga Abandonada",
+    "trader": "Therapist",
+    "map": "Customs",
+    "requirements": [
+      "Vacaciones Junto al Mar"
+    ]
+  },
+  {
+    "id": "675c047fa46173572a0bd878",
+    "name": "Seguimiento de Envíos",
+    "trader": "Therapist",
+    "map": "Customs",
+    "requirements": [
+      "Carga Abandonada"
+    ]
+  },
+  {
+    "id": "675c04f4db8807b75d0f38e8",
+    "name": "Más Cerca de la Gente",
+    "trader": "Therapist",
+    "map": "Customs",
+    "requirements": [
+      "Seguimiento de Envíos"
+    ]
+  },
+  {
+    "id": "675c085d59b0575973005f52",
+    "name": "Romper el Trato",
+    "trader": "Ragman",
+    "map": "Customs",
+    "requirements": [
+      "Make ULTRA Great Again"
+    ]
+  },
+  {
+    "id": "675c1570526ff496850895d9",
+    "name": "Pasión por la Ergonomía",
+    "trader": "Mechanic",
+    "map": "Customs",
+    "requirements": [
+      "Minando - Parte 2"
+    ]
+  },
+  {
+    "id": "675c15fbf7da9792a4059871",
+    "name": "Proporcionar Audiencia",
+    "trader": "Ref",
+    "map": "Customs",
+    "requirements": [
+      "Dinero Fácil - Parte 2 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "675c1cf4a757ddd00404f0a3",
+    "name": "Trabajar Más Inteligentemente",
+    "trader": "Jaeger",
+    "map": "Customs",
+    "requirements": [
+      "Ligero y Peligroso"
+    ]
+  },
+  {
+    "id": "675c1d6d59b0575973008fc7",
+    "name": "Tomando la Iniciativa",
+    "trader": "Peacekeeper",
+    "map": null,
+    "requirements": [
+      "Suministros Humanitarios"
+    ]
+  },
+  {
+    "id": "675c1ec7a46173572a0bf20a",
+    "name": "Rito de Iniciación",
+    "trader": "Jaeger",
+    "map": "Customs",
+    "requirements": [
+      "Trabajar Más Inteligentemente"
+    ]
+  },
+  {
+    "id": "675c1ff1a757ddd00404f0aa",
+    "name": "Prueba de Conducción - Parte 6",
+    "trader": "Prapor",
+    "map": "Customs",
+    "requirements": [
+      "Prueba de Conducción - Parte 5"
+    ]
+  },
+  {
+    "id": "675c3507a06634b5110e3c18",
+    "name": "Belka y Strelka",
+    "trader": "Prapor",
+    "map": "Customs",
+    "requirements": [
+      "Oro Líquido"
+    ]
+  },
+  {
+    "id": "675c3582f6ddc329a90f9c6d",
+    "name": "Club Privado",
+    "trader": "Skier",
+    "map": "Customs",
+    "requirements": [
+      "Comprando Amigos"
+    ]
+  },
+  {
+    "id": "6761f28a022f60bb320f3e95",
+    "name": "Nuevo Comienzo",
+    "trader": "Ragman",
+    "map": "The Lab",
+    "requirements": []
+  },
+  {
+    "id": "6761ff17cdc36bd66102e9d0",
+    "name": "Nuevo Comienzo",
+    "trader": "Ragman",
+    "map": "The Lab",
+    "requirements": []
+  },
+  {
+    "id": "6764174c86addd02bc033d68",
+    "name": "Conexiones en el Norte",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Cacería",
+      "Calibre Silencioso"
+    ]
+  },
+  {
+    "id": "676529af9c90953d090882e7",
+    "name": "Armero - Petición de un Viejo Amigo",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 7"
+    ]
+  },
+  {
+    "id": "67a09636b8725511260bc421",
+    "name": "Contratista Sombrío",
+    "trader": "Mechanic",
+    "map": "Ground Zero",
+    "requirements": [
+      "Salvando al Topo"
+    ]
+  },
+  {
+    "id": "67a0964e972c11a3f507731b",
+    "name": "Una Aguja en un Pajar",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Contratista Sombrío"
+    ]
+  },
+  {
+    "id": "67a096577e86e067eb045733",
+    "name": "Capa Oculta",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Una Aguja en un Pajar"
+    ]
+  },
+  {
+    "id": "67a0967c003a9986cb0f5ac1",
+    "name": "Análisis Sensorial - Parte 1",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": [
+      "Capa Oculta"
+    ]
+  },
+  {
+    "id": "67a096ed77dd677f600804ba",
+    "name": "Análisis Sensorial - Parte 2",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Análisis Sensorial - Parte 1"
+    ]
+  },
+  {
+    "id": "67a0970744893b9f3f0d9b68",
+    "name": "Reconocimiento Ofensivo",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Capa Oculta"
+    ]
+  },
+  {
+    "id": "67a0970f05d1611ed90be75d",
+    "name": "Prueba de Hipótesis",
+    "trader": "Mechanic",
+    "map": "The Labyrinth",
+    "requirements": [
+      "Reconocimiento Ofensivo"
+    ]
+  },
+  {
+    "id": "67a09724972c11a3f5077324",
+    "name": "Información Confidencial",
+    "trader": "Peacekeeper",
+    "map": "The Labyrinth",
+    "requirements": [
+      "Reconocimiento Ofensivo"
+    ]
+  },
+  {
+    "id": "67a0972e77dd677f600804bd",
+    "name": "Esta Cinta Apesta",
+    "trader": "Therapist",
+    "map": "The Labyrinth",
+    "requirements": [
+      "Reconocimiento Ofensivo"
+    ]
+  },
+  {
+    "id": "67a097379f2068e74603c6ac",
+    "name": "Autoridad Indisputable",
+    "trader": "Skier",
+    "map": "The Labyrinth",
+    "requirements": [
+      "Reconocimiento Ofensivo"
+    ]
+  },
+  {
+    "id": "67a09761e720611a6a01f288",
+    "name": "Palabra del Guardián",
+    "trader": "Lightkeeper",
+    "map": "The Labyrinth",
+    "requirements": [
+      "Análisis Sensorial - Parte 2",
+      "Autoridad Indisputable",
+      "Desalojar las Instalaciones",
+      "Esta Cinta Apesta",
+      "Información Confidencial",
+      "Prueba de Hipótesis"
+    ]
+  },
+  {
+    "id": "67af4c1405c58dc6f7056667",
+    "name": "Emprendimiento Rentable",
+    "trader": "Skier",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "67af4c169d95ad16e004fd86",
+    "name": "Garantía de Seguridad",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Emprendimiento Rentable"
+    ]
+  },
+  {
+    "id": "67af4c17f4f1fb58a907f8f6",
+    "name": "Nunca es Demasiado Tarde para Aprender",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Garantía de Seguridad"
+    ]
+  },
+  {
+    "id": "67af4c1991ee75c6d7060a16",
+    "name": "Conseguir un Punto de Apoyo",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Nunca es Demasiado Tarde para Aprender"
+    ]
+  },
+  {
+    "id": "67af4c1a6c3ebfd8e6034916",
+    "name": "Retención de Ganancias",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Conseguir un Punto de Apoyo"
+    ]
+  },
+  {
+    "id": "67af4c1cc0e59d55e2010b97",
+    "name": "Una Lección de Vida",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Retención de Ganancias"
+    ]
+  },
+  {
+    "id": "67af4c1d8c9482eca103e477",
+    "name": "Premio de Consuelo",
+    "trader": "Skier",
+    "map": "The Lab",
+    "requirements": [
+      "Una Lección de Vida"
+    ]
+  },
+  {
+    "id": "67b45467814ab0ffa000c7e7",
+    "name": "El Arte de la Explosión",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "Granadero"
+    ]
+  },
+  {
+    "id": "67d03be712fb5f8fd2096332",
+    "name": "Desalojar las Instalaciones",
+    "trader": "Ragman",
+    "map": "The Labyrinth",
+    "requirements": [
+      "Reconocimiento Ofensivo"
+    ]
+  },
+  {
+    "id": "67e993b1ac26bf29380a320b",
+    "name": "Regalo Sorpresa [ZONA PVP]",
+    "trader": "Lightkeeper",
+    "map": null,
+    "requirements": [
+      "Entre Dos Fuegos [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "67e993f5ed537409f009da75",
+    "name": "Recompensa Postergada [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Regalo Sorpresa [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "684009026ceedc792c09b2a7",
+    "name": "Club de Hobbies",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Salvando al Topo"
+    ]
+  },
+  {
+    "id": "68400926706e0a55e90b0007",
+    "name": "Precio Justo - Parte 1",
+    "trader": "Skier",
+    "map": null,
+    "requirements": [
+      "Club de Hobbies"
+    ]
+  },
+  {
+    "id": "68400953506db3b4db0700e7",
+    "name": "Precio Justo - Parte 2",
+    "trader": "Skier",
+    "map": "Woods",
+    "requirements": [
+      "Precio Justo - Parte 1"
+    ]
+  },
+  {
+    "id": "6848100b00afffa81f09e365",
+    "name": "Nuevo Comienzo",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "68481881f43abfdda2058369",
+    "name": "Nuevo Comienzo",
+    "trader": "Ragman",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "68db9c7557bc51a8c804c14b",
+    "name": "Objetivos y Medios",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Armero - Parte 15",
+      "Familiarización"
+    ]
+  },
+  {
+    "id": "68ee1c18b4e5bc9a68018cd7",
+    "name": "Sin Hacer Preguntas",
+    "trader": "Prapor",
+    "map": null,
+    "requirements": [
+      "The Punisher - Parte 6"
+    ]
+  },
+  {
+    "id": "6942b44f891369fc790e385a",
+    "name": "Estableciendo Prioridades",
+    "trader": "Mechanic",
+    "map": null,
+    "requirements": [
+      "Cargamento Desconocido - Parte 4",
+      "Francotirador Profesional"
+    ]
+  },
+  {
+    "id": "697877e0c639962b2e0cf24f",
+    "name": "Arena de Negocios [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Balanceo - Parte 1 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "69788c2bac719606e40b4e77",
+    "name": "Fitness Profesional - Parte 1 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Balanceo - Parte 1 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "69788db3878a4385d10c0718",
+    "name": "Fitness Profesional - Parte 2 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "Fitness Profesional - Parte 1 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "69789418b2187365e70bb947",
+    "name": "¡Hacia Grandes Alturas! - Parte 6 [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "¡Hacia Grandes Alturas! - Parte 5 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "697895b6c639962b2e0cf268",
+    "name": "Mantener la Ventaja [ZONA PVP]",
+    "trader": "Ref",
+    "map": null,
+    "requirements": [
+      "¡Hacia Grandes Alturas! - Parte 6 [ZONA PVP]"
+    ]
+  },
+  {
+    "id": "69c26c07683c9831020018c7",
+    "name": "Apégate a Ello",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": []
+  },
+  {
+    "id": "69c27158e350f01390049e77",
+    "name": "Salvar al Soldado Roman",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Apégate a Ello"
+    ]
+  },
+  {
+    "id": "69c277f3ea6da9c23e07f8d2",
+    "name": "Una Victoria Amarga",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Salvar al Soldado Roman"
+    ]
+  },
+  {
+    "id": "69c2a2d004de49c8f0055a3d",
+    "name": "Resaca Mañanera",
+    "trader": "Conductor del BTR",
+    "map": null,
+    "requirements": [
+      "Una Victoria Amarga"
+    ]
+  },
+  {
+    "id": "69ce1cfb298a6529b30d712b",
+    "name": "Una Brecha Entre Nosotros",
+    "trader": "Jaeger",
+    "map": "Icebreaker",
+    "requirements": []
+  },
+  {
+    "id": "69ce1de03e15cd80bd06f6c9",
+    "name": "Cambio de Aceite",
+    "trader": "Prapor",
+    "map": "Icebreaker",
+    "requirements": []
+  },
+  {
+    "id": "69ce1f84ebbdbf36a200627c",
+    "name": "Átomo Pacífico",
+    "trader": "Peacekeeper",
+    "map": "Icebreaker",
+    "requirements": [
+      "Cambio de Aceite"
+    ]
+  },
+  {
+    "id": "69ce204c8702b378f9091e4b",
+    "name": "La Guerra Nunca Cambia",
+    "trader": "Therapist",
+    "map": "Icebreaker",
+    "requirements": []
+  },
+  {
+    "id": "69ce213a298a6529b30d7134",
+    "name": "Bioquímica",
+    "trader": "Therapist",
+    "map": "Icebreaker",
+    "requirements": [
+      "La Guerra Nunca Cambia"
+    ]
+  },
+  {
+    "id": "69ce21e990144e437802b1e0",
+    "name": "Nuevas Existencias",
+    "trader": "Ragman",
+    "map": "Icebreaker",
+    "requirements": []
+  },
+  {
+    "id": "69e5583240c3e6c8ba0edbd5",
+    "name": "Cableando el Navío",
+    "trader": "Peacekeeper",
+    "map": "Icebreaker",
+    "requirements": [
+      "Átomo Pacífico"
+    ]
+  }
+]

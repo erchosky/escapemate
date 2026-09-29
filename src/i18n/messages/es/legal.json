@@ -1,0 +1,28 @@
+{
+  "privacy": "Privacidad",
+  "terms": "Términos",
+  "contactFallback": "contacto pendiente de publicar",
+  "notAffiliated": "No afiliado oficialmente con Battlestate Games ni Escape from Tarkov.",
+  "privacyPage": {
+    "title": "Privacidad",
+    "paragraphs": {
+      "intro": "EscapeMate es un proyecto indie para encontrar compañeros de raid. No está afiliado, patrocinado ni respaldado oficialmente por Battlestate Games ni por Escape from Tarkov.",
+      "discord": "Usamos Discord OAuth para iniciar sesión y obtener datos básicos como identificador, nombre de usuario y avatar. Tu Discord solo se usa como contacto y no se muestra a otros usuarios antes de que exista match.",
+      "profile": "Guardamos datos de perfil que introduces en la app, como nickname, región, idiomas, mapas favoritos, estilos de juego, objetivos, horario, bio, mensajes, matches, bloqueos y reportes.",
+      "tarkovStats": "Si sincronizas estadísticas de Tarkov, usamos datos públicos disponibles en tarkov.dev o players.tarkov.dev. También puedes guardar estadísticas manuales si la sincronización no está disponible.",
+      "moderation": "Puedes reportar o bloquear usuarios. Los reportes se guardan para moderación futura y los bloqueos se usan para evitar que vuelvan a aparecer perfiles incompatibles o no deseados.",
+      "contact": "Contacto para privacidad: {{contact}}."
+    }
+  },
+  "termsPage": {
+    "title": "Términos",
+    "paragraphs": {
+      "intro": "EscapeMate se ofrece como beta para ayudar a jugadores a encontrar compañeros compatibles. La app no está afiliada oficialmente con Battlestate Games ni con Escape from Tarkov.",
+      "conduct": "Debes usar la app con respeto. No permitimos acoso, spam, suplantación, RMT, pagos externos, ventas de servicios, trampas ni actividades que dañen a otros usuarios.",
+      "data": "El login se realiza con Discord OAuth. Al usar la app aceptas que podamos guardar tus datos de perfil, matches, mensajes, reportes, bloqueos y estadísticas públicas o manuales de Tarkov si decides añadirlas.",
+      "tarkovDev": "Los datos públicos de tarkov.dev se muestran como referencia y pueden no estar siempre disponibles o actualizados. Si tarkov.dev falla, EscapeMate puede seguir funcionando con datos manuales.",
+      "moderation": "Podemos revisar reportes, bloquear acceso a funciones o cerrar cuentas si detectamos abuso. La beta puede cambiar o interrumpirse mientras estabilizamos el servicio.",
+      "contact": "Contacto: {{contact}}."
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "generic": "The action could not be completed. Try again.",
+  "rateLimited": "You have made too many actions in a row. Wait a moment.",
+  "invalidFields": "Check the form fields.",
+  "action": {
+    "generic": "The action could not be completed. Try again."
+  },
+  "profile": {
+    "invalidFields": "Complete the required fields.",
+    "invalidPrimaryLanguage": "Select a primary language and at least one spoken language.",
+    "rateLimited": "You have made too many attempts. Wait a moment.",
+    "saved": "Profile saved."
+  },
+  "settings": {
+    "invalidTarkovUrl": "The link must be from tarkov.dev or players.tarkov.dev.",
+    "invalidStats": "The tarkov.dev link or stats are not valid.",
+    "syncFailed": "Could not sync with tarkov.dev. Your current stats were not changed.",
+    "rateLimited": "You have made too many actions in a row. Wait a moment.",
+    "statsSaved": "Stats saved.",
+    "syncCompleted": "Stats synced from tarkov.dev.",
+    "avatarInvalid": "The image must be JPG, PNG or WEBP and at most 5 MB.",
+    "avatarUnavailable": "Avatar upload isn't available in demo mode.",
+    "deleteConfirmMismatch": "Type the confirmation word exactly to delete the account.",
+    "avatarSaved": "Profile picture updated."
+  },
+  "chat": {
+    "invalidMessage": "Invalid message.",
+    "loadFailed": "Could not load older messages.",
+    "sendFailed": "Could not send the message.",
+    "rateLimited": "You have sent too many messages in a row. Wait a moment."
+  },
+  "raidNow": {
+    "invalidFields": "Check the search fields.",
+    "invalidMap": "Select a valid map.",
+    "activePostExists": "You already have an active search.",
+    "rateLimited": "You have created too many searches in a row. Wait a moment.",
+    "created": "Search published.",
+    "closed": "Search closed."
+  },
+  "questHelp": {
+    "invalidFields": "Check the request fields.",
+    "invalidMap": "Select a valid map.",
+    "incompatibleMap": "The map is not compatible with the selected quest.",
+    "rmtNotAllowed": "RMT and external payments are not allowed.",
+    "rateLimited": "You have created too many requests in a row. Wait a moment.",
+    "created": "Request published.",
+    "closed": "Request closed."
+  },
+  "swipe": {
+    "saveFailed": "Couldn't save the swipe. Please try again.",
+    "rateLimited": "You're going too fast. Wait a few seconds before swiping again."
+  },
+  "responses": {
+    "failed": "Couldn't send the request. The post may no longer be active or may be full.",
+    "duplicate": "You already sent a request to this post.",
+    "rateLimited": "You've sent too many requests in a row. Wait a moment.",
+    "sent": "Request sent.",
+    "declined": "Request declined."
+  },
+  "moderation": {
+    "rateLimited": "Too many reports or blocks in a row. Wait a moment."
+  }
+}

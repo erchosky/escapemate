@@ -1,0 +1,16 @@
+{
+  "title": "Matches",
+  "description": "Tus squads desbloqueados por like mutuo o por solicitudes aceptadas.",
+  "emptyTitle": "Todavía no hay matches",
+  "emptyDescription": "Los likes mutuos desbloquean chat y contacto por Discord.",
+  "goToSwipe": "Ir a deslizar",
+  "openChat": "Abrir chat",
+  "viewFullProfile": "Ver perfil completo",
+  "goToRaidNow": "Buscar grupo ahora",
+  "unread": "Mensaje sin leer",
+  "newMatches": "Nuevos matches ({{count}})",
+  "conversations": "Conversaciones",
+  "search": "Buscar jugador",
+  "noResults": "Ningún match con ese nombre.",
+  "noConversations": "Aún no has escrito a nadie. Toca un match nuevo para empezar."
+}

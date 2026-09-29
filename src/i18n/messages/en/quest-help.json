@@ -1,0 +1,60 @@
+{
+  "title": "Quest Help",
+  "description": "Find help for quests without payments, RMT, or external trades.",
+  "board": {
+    "title": "Looking for quest help",
+    "description": "Publish a request or offer help as a Sherpa.",
+    "antiRmt": "RMT and external payments are not allowed. Use this section only to find raid teammates.",
+    "toggle": "Post"
+  },
+  "form": {
+    "manualFallback": "Quest info could not be loaded, complete it manually.",
+    "quest": "Quest",
+    "questPlaceholder": "Quest name or manual text",
+    "map": "Map",
+    "lockedMap": "Map locked by the selected quest.",
+    "multiMap": "This quest supports multiple compatible maps.",
+    "type": "Type",
+    "language": "Language",
+    "region": "Region",
+    "style": "Style",
+    "description": "Description",
+    "descriptionPlaceholder": "E.g. I need to complete the objective and extract. No payments or trades.",
+    "submit": "Publish Quest Help",
+    "submitting": "Publishing...",
+    "noPreference": "No preference",
+    "gameMode": "Mode"
+  },
+  "questInfo": {
+    "level": "Level {{level}}+",
+    "itemRequired": "Item required",
+    "extraction": "Extraction",
+    "pvp": "Requires PvP kills",
+    "pve": "No PvP required",
+    "requirements": "Requirements: {{requirements}}",
+    "wiki": "Wiki"
+  },
+  "filters": {
+    "region": "Region filter",
+    "language": "Language filter",
+    "map": "Map filter",
+    "type": "Type filter",
+    "all": "All",
+    "apply": "Apply filters",
+    "clear": "Clear filters",
+    "gameMode": "Mode filter"
+  },
+  "post": {
+    "fallbackPlayer": "Player",
+    "fallbackDescription": "Active request to coordinate a quest.",
+    "close": "Close request",
+    "closing": "Closing...",
+    "yours": "your request",
+    "expires": "expires {{time}}"
+  },
+  "empty": {
+    "title": "No active requests",
+    "description": "Create a request or return to swipe to find a squad.",
+    "filtered": "No request matches these filters. Try removing some."
+  }
+}

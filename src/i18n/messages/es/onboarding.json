@@ -1,0 +1,45 @@
+{
+  "title": "Configura tu perfil de raid",
+  "description": "Estos datos alimentan el deslizamiento, los matches y las búsquedas activas.",
+  "fields": {
+    "nickname": "Nickname",
+    "discord": "Discord",
+    "discordPlaceholder": "usuario#0000",
+    "region": "Región",
+    "primaryLanguage": "Idioma principal",
+    "approximateLevel": "Nivel aproximado",
+    "spokenLanguages": "Idiomas que hablas",
+    "favoriteMaps": "Mapas favoritos",
+    "playStyles": "Estilo de juego",
+    "objectives": "Objetivo actual",
+    "schedule": "Horario habitual",
+    "bio": "Bio corta",
+    "bioPlaceholder": "Qué buscas, cómo juegas y qué esperas de un squad.",
+    "gameModes": "Modos que juegas"
+  },
+  "actions": {
+    "submit": "Guardar y empezar a deslizar",
+    "saving": "Guardando...",
+    "saveChanges": "Guardar cambios",
+    "cancel": "Cancelar",
+    "back": "Atrás",
+    "next": "Siguiente"
+  },
+  "editTitle": "Edita tu perfil de raid",
+  "editDescription": "Los cambios se aplican al swipe y a tus próximas publicaciones.",
+  "validation": {
+    "pickOne": "Elige al menos uno",
+    "count": "{{count}}/{{max}}",
+    "missingGroups": "Te falta elegir al menos una opción en las secciones marcadas.",
+    "basics": "Pon un nickname de al menos 2 caracteres y un nivel entre 1 y 79."
+  },
+  "draftAvailable": "Tienes un borrador sin terminar de tu perfil.",
+  "draftRestore": "Recuperar",
+  "draftDiscard": "Descartar",
+  "steps": {
+    "progress": "Paso {{current}} de {{total}}",
+    "you": "Tú",
+    "play": "Cómo juegas",
+    "when": "Cuándo y bio"
+  }
+}

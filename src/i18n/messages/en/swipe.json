@@ -1,0 +1,83 @@
+{
+  "eyebrow": "Squad swipe",
+  "title": "Raid compatibility",
+  "emptyTitle": "You've seen every profile",
+  "emptyDescription": "No compatible players left right now. Check back later, widen your preferences or build a squad instantly in Raid now.",
+  "viewActiveGroups": "View active groups",
+  "like": "Like",
+  "pass": "Pass",
+  "profilesCount": "{{count}} profiles",
+  "speaksYourLanguage": "Speaks your language",
+  "objective": "Objective",
+  "style": "Style",
+  "map": "Map",
+  "schedule": "Schedule",
+  "levelLine": "Level {{level}} · {{region}} · {{language}}",
+  "fallbackBio": "Player looking for coordinated raids, clear comms, and focused objectives.",
+  "compatibilityPercent": "{{score}} percent compatibility",
+  "matchLabel": "match",
+  "compat": {
+    "language": {
+      "speaksYourLanguage": "Speaks your language",
+      "sharedEnglish": "You both speak English",
+      "sharedLanguage": "You share a language",
+      "speaks": "Speaks {{language}}"
+    },
+    "region": {
+      "same": "Same region {{region}}",
+      "compatible": "Compatible region"
+    },
+    "schedule": {
+      "sharedWeekends": "You both play weekends",
+      "compatible": "Compatible schedule",
+      "shared": "{{schedule}} schedule compatible"
+    },
+    "objective": {
+      "sharedQuests": "You both want quests",
+      "sharedPvp": "You both want PvP",
+      "shared": "You both want {{objective}}",
+      "compatible": "Compatible goal: {{objective}}"
+    },
+    "map": {
+      "shared": "You match on {{map}}"
+    },
+    "style": {
+      "sherpaNewPlayer": "Sherpa fit for a new player",
+      "similar": "Similar play styles",
+      "compatible": "Compatible style: {{style}}"
+    },
+    "experience": {
+      "similar": "Similar experience",
+      "veteranHelper": "Veteran willing to help"
+    },
+    "warning": {
+      "noSharedLanguage": "No shared language",
+      "distantRegion": "Distant region",
+      "poorSchedule": "Schedules may not align",
+      "largeExperienceGap": "Large experience gap",
+      "differentPace": "Different play pace",
+      "pvpVsLearning": "PvP and learning goals may clash",
+      "pvpWithNewPlayer": "PvP with a new player can be rough"
+    },
+    "unknown": {
+      "reason": "Compatibility factor",
+      "warning": "Compatibility notice"
+    },
+    "gameMode": {
+      "sharedPve": "You both play PvE"
+    }
+  },
+  "editPreferences": "Edit preferences",
+  "undo": "Undo last pass",
+  "undoNamed": "Bring back {{nickname}}",
+  "keyboardHint": "Shortcuts: ← pass · → like · ↑ view profile · Z undo",
+  "refresh": "Search again",
+  "blockedNotice": "You blocked {{nickname}}. You won't see them again.",
+  "matchEyebrow": "Mutual like",
+  "matchTitle": "It's a match!",
+  "matchDescription": "You and {{nickname}} want to play together. Chat and their Discord are now unlocked.",
+  "openChat": "Open chat",
+  "keepSwiping": "Keep swiping",
+  "activeAgo": "Active {{time}}",
+  "verifiedStats": "Public stats"
+}

@@ -1,0 +1,22 @@
+{
+  "discordConnected": "Discord connected",
+  "offline": "Offline. We will retry when you are back online.",
+  "reconnecting": "Reconnecting chat...",
+  "loading": "Loading...",
+  "placeholder": "Coordinate map, time, and objective...",
+  "offlinePlaceholder": "Offline...",
+  "loadOlder": "Load older messages",
+  "empty": "No messages yet. Coordinate map, time, and objective to get started.",
+  "newMessages": "New messages",
+  "send": "Send",
+  "sending": "...",
+  "back": "Back to matches",
+  "copyDiscord": "Copy Discord",
+  "copied": "Copied!",
+  "openDiscord": "Open Discord profile",
+  "suggestions": {
+    "time": "What time works for you to jump in?",
+    "quest": "Which quests do you still need?",
+    "discord": "Shall we talk on Discord?"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Set up your raid profile",
+  "description": "This information powers swiping, matches, and active group searches.",
+  "fields": {
+    "nickname": "Nickname",
+    "discord": "Discord",
+    "discordPlaceholder": "username#0000",
+    "region": "Region",
+    "primaryLanguage": "Primary language",
+    "approximateLevel": "Approximate level",
+    "spokenLanguages": "Languages you speak",
+    "favoriteMaps": "Favorite maps",
+    "playStyles": "Play style",
+    "objectives": "Current objective",
+    "schedule": "Usual schedule",
+    "bio": "Short bio",
+    "bioPlaceholder": "What you are looking for, how you play, and what you expect from a squad.",
+    "gameModes": "Modes you play"
+  },
+  "actions": {
+    "submit": "Save and start swiping",
+    "saving": "Saving...",
+    "saveChanges": "Save changes",
+    "cancel": "Cancel",
+    "back": "Back",
+    "next": "Next"
+  },
+  "editTitle": "Edit your raid profile",
+  "editDescription": "Changes apply to swipe and to your next posts.",
+  "validation": {
+    "pickOne": "Pick at least one",
+    "count": "{{count}}/{{max}}",
+    "missingGroups": "Pick at least one option in the highlighted sections.",
+    "basics": "Use a nickname of at least 2 characters and a level between 1 and 79."
+  },
+  "draftAvailable": "You have an unfinished profile draft.",
+  "draftRestore": "Restore",
+  "draftDiscard": "Discard",
+  "steps": {
+    "progress": "Step {{current}} of {{total}}",
+    "you": "You",
+    "play": "How you play",
+    "when": "When and bio"
+  }
+}

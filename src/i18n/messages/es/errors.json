@@ -1,0 +1,63 @@
+{
+  "generic": "No se pudo completar la acción. Inténtalo de nuevo.",
+  "rateLimited": "Has hecho demasiadas acciones seguidas. Espera un momento.",
+  "invalidFields": "Revisa los campos del formulario.",
+  "action": {
+    "generic": "No se pudo completar la acción. Inténtalo de nuevo."
+  },
+  "profile": {
+    "invalidFields": "Completa los campos obligatorios.",
+    "invalidPrimaryLanguage": "Selecciona un idioma principal y al menos un idioma hablado.",
+    "rateLimited": "Has hecho demasiados intentos. Espera un momento.",
+    "saved": "Perfil guardado."
+  },
+  "settings": {
+    "invalidTarkovUrl": "El enlace debe ser de tarkov.dev o players.tarkov.dev.",
+    "invalidStats": "El enlace de tarkov.dev o las estadísticas no son válidos.",
+    "syncFailed": "No se pudo sincronizar con tarkov.dev. Tus stats actuales no se han modificado.",
+    "rateLimited": "Has hecho demasiadas acciones seguidas. Espera un momento.",
+    "statsSaved": "Estadísticas guardadas.",
+    "syncCompleted": "Estadísticas sincronizadas desde tarkov.dev.",
+    "avatarInvalid": "La imagen debe ser JPG, PNG o WEBP y pesar como máximo 5 MB.",
+    "avatarUnavailable": "La subida de avatar no está disponible en el modo demo.",
+    "deleteConfirmMismatch": "Escribe la palabra de confirmación exactamente para eliminar la cuenta.",
+    "avatarSaved": "Foto de perfil actualizada."
+  },
+  "chat": {
+    "invalidMessage": "Mensaje inválido.",
+    "loadFailed": "No se pudieron cargar más mensajes.",
+    "sendFailed": "No se pudo enviar el mensaje.",
+    "rateLimited": "Has enviado demasiados mensajes seguidos. Espera un momento."
+  },
+  "raidNow": {
+    "invalidFields": "Revisa los campos de la búsqueda.",
+    "invalidMap": "Selecciona un mapa válido.",
+    "activePostExists": "Ya tienes una búsqueda activa.",
+    "rateLimited": "Has creado demasiadas búsquedas seguidas. Espera un momento.",
+    "created": "Búsqueda publicada.",
+    "closed": "Búsqueda cerrada."
+  },
+  "questHelp": {
+    "invalidFields": "Revisa los campos de la solicitud.",
+    "invalidMap": "Selecciona un mapa válido.",
+    "incompatibleMap": "El mapa no es compatible con la quest seleccionada.",
+    "rmtNotAllowed": "No permitimos RMT ni pagos externos.",
+    "rateLimited": "Has creado demasiadas solicitudes seguidas. Espera un momento.",
+    "created": "Solicitud publicada.",
+    "closed": "Solicitud cerrada."
+  },
+  "swipe": {
+    "saveFailed": "No se pudo guardar el deslizamiento. Inténtalo de nuevo.",
+    "rateLimited": "Vas muy rápido. Espera unos segundos antes de seguir deslizando."
+  },
+  "responses": {
+    "failed": "No se pudo enviar la solicitud. Puede que la publicación ya no esté activa o esté completa.",
+    "duplicate": "Ya enviaste una solicitud a esta publicación.",
+    "rateLimited": "Has enviado demasiadas solicitudes seguidas. Espera un momento.",
+    "sent": "Solicitud enviada.",
+    "declined": "Solicitud rechazada."
+  },
+  "moderation": {
+    "rateLimited": "Has hecho demasiados reportes o bloqueos seguidos. Espera un momento."
+  }
+}

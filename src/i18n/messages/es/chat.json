@@ -1,0 +1,22 @@
+{
+  "discordConnected": "Discord conectado",
+  "offline": "Sin conexión. Reintentaremos cuando vuelvas online.",
+  "reconnecting": "Reconectando chat...",
+  "loading": "Cargando...",
+  "placeholder": "Coordina mapa, hora y objetivo...",
+  "offlinePlaceholder": "Sin conexión...",
+  "loadOlder": "Cargar mensajes anteriores",
+  "empty": "Aún no hay mensajes. Coordina mapa, hora y objetivo para empezar.",
+  "newMessages": "Nuevos mensajes",
+  "send": "Enviar",
+  "sending": "...",
+  "back": "Volver a matches",
+  "copyDiscord": "Copiar Discord",
+  "copied": "¡Copiado!",
+  "openDiscord": "Abrir perfil de Discord",
+  "suggestions": {
+    "time": "¿A qué hora te viene bien entrar?",
+    "quest": "¿Qué misiones tienes pendientes?",
+    "discord": "¿Hablamos por Discord?"
+  }
+}

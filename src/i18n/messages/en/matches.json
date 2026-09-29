@@ -1,0 +1,16 @@
+{
+  "title": "Matches",
+  "description": "Your squads unlocked by mutual likes or accepted requests.",
+  "emptyTitle": "No matches yet",
+  "emptyDescription": "Mutual likes unlock chat and Discord contact.",
+  "goToSwipe": "Go to swipe",
+  "openChat": "Open chat",
+  "viewFullProfile": "View full profile",
+  "goToRaidNow": "Find a group now",
+  "unread": "Unread message",
+  "newMatches": "New matches ({{count}})",
+  "conversations": "Conversations",
+  "search": "Search player",
+  "noResults": "No match with that name.",
+  "noConversations": "You haven't messaged anyone yet. Tap a new match to start."
+}

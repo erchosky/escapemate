@@ -1,0 +1,60 @@
+{
+  "title": "Ayuda con misiones",
+  "description": "Encuentra ayuda para misiones sin pagos, RMT ni intercambios externos.",
+  "board": {
+    "title": "Busco ayuda en misión",
+    "description": "Publica una solicitud o ofrece ayuda como Sherpa.",
+    "antiRmt": "No permitimos RMT ni pagos externos. Usa esta sección solo para encontrar compañeros de raid.",
+    "toggle": "Publicar"
+  },
+  "form": {
+    "manualFallback": "No se pudo cargar la info de la misión, completa manualmente.",
+    "quest": "Misión",
+    "questPlaceholder": "Nombre de misión o texto manual",
+    "map": "Mapa",
+    "lockedMap": "Mapa bloqueado por la misión seleccionada.",
+    "multiMap": "Esta misión acepta varios mapas compatibles.",
+    "type": "Tipo",
+    "language": "Idioma",
+    "region": "Región",
+    "style": "Estilo",
+    "description": "Descripción",
+    "descriptionPlaceholder": "Ej. Necesito hacer el objetivo y extraer. Sin pagos ni intercambios.",
+    "submit": "Publicar solicitud",
+    "submitting": "Publicando...",
+    "noPreference": "Sin preferencia",
+    "gameMode": "Modo"
+  },
+  "questInfo": {
+    "level": "Nivel {{level}}+",
+    "itemRequired": "Requiere item",
+    "extraction": "Extracción",
+    "pvp": "Requiere bajas PvP",
+    "pve": "Sin PvP obligatorio",
+    "requirements": "Requisitos: {{requirements}}",
+    "wiki": "Wiki"
+  },
+  "filters": {
+    "region": "Filtro región",
+    "language": "Filtro idioma",
+    "map": "Filtro mapa",
+    "type": "Filtro tipo",
+    "all": "Todos",
+    "apply": "Aplicar filtros",
+    "clear": "Limpiar filtros",
+    "gameMode": "Filtro modo"
+  },
+  "post": {
+    "fallbackPlayer": "Jugador",
+    "fallbackDescription": "Solicitud activa para coordinar misión.",
+    "close": "Cerrar solicitud",
+    "closing": "Cerrando...",
+    "yours": "tu solicitud",
+    "expires": "caduca {{time}}"
+  },
+  "empty": {
+    "title": "No hay solicitudes activas",
+    "description": "Crea una solicitud o vuelve al swipe para encontrar squad.",
+    "filtered": "Ninguna solicitud encaja con estos filtros. Prueba a quitar alguno."
+  }
+}

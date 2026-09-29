@@ -1,0 +1,146 @@
+{
+  "appName": "EscapeMate",
+  "metadata": {
+    "title": "EscapeMate — Find your next raid squad",
+    "description": "Swipe, match, and squad up with compatible Escape from Tarkov players."
+  },
+  "language": {
+    "label": "Language",
+    "shortLabel": "Language",
+    "ariaLabel": "Select language",
+    "es": "Español",
+    "en": "English"
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "continue": "Continue",
+    "retry": "Retry",
+    "loading": "Loading...",
+    "signOut": "Sign out"
+  },
+  "navigation": {
+    "mainAria": "Main navigation",
+    "mobileAria": "Mobile main navigation",
+    "items": {
+      "swipe": "Swipe",
+      "matches": "Matches",
+      "raidNow": "Raid",
+      "questHelp": "Quests",
+      "settings": "Settings",
+      "admin": "Admin"
+    },
+    "profile": "Your profile"
+  },
+  "loading": {
+    "default": "Loading",
+    "sections": {
+      "matches": "Loading matches",
+      "questHelp": "Loading Quest Help",
+      "raidNow": "Loading Raid Now",
+      "settings": "Loading settings",
+      "swipe": "Loading swipe"
+    }
+  },
+  "landing": {
+    "heroImageAlt": "Fictional tactical table for planning raids",
+    "loginLink": "Log in with Discord",
+    "badge": "Matchmaking for Escape from Tarkov",
+    "headline": "Find raid teammates before going in blind.",
+    "description": "Swipe Escape from Tarkov players who match you by language, region, schedule, maps, playstyle and PvP or PvE mode. Mutual interest opens the chat and their Discord.",
+    "primaryCta": "Start with Discord",
+    "secondaryCta": "Looking for Raid Now",
+    "loginShort": "Sign in",
+    "proof": {
+      "free": "Free",
+      "discord": "Sign in with Discord",
+      "modes": "PvP and PvE"
+    },
+    "how": {
+      "title": "How it works",
+      "profile": {
+        "title": "Create your raid profile",
+        "text": "Maps, playstyle, goals, schedule, languages and mode. Optionally connect your tarkov.dev stats."
+      },
+      "swipe": {
+        "title": "Swipe compatible players",
+        "text": "Every card shows why you match and what to watch out for."
+      },
+      "play": {
+        "title": "Match and raid",
+        "text": "A mutual like unlocks chat and their Discord. Agree on a time and map, and go."
+      }
+    },
+    "featuresTitle": "Everything you need to stop playing solo",
+    "feature": {
+      "compatibility": {
+        "title": "Real compatibility",
+        "text": "A 0–100 score from language, region, schedule, goals, maps, playstyle and real experience. You're only paired with players in your mode."
+      },
+      "raidNow": {
+        "title": "Raid now",
+        "text": "Want to play right now? Post a 90-minute search, receive requests and accept whoever fits."
+      },
+      "questHelp": {
+        "title": "Quest help",
+        "text": "Ask for or offer help with a specific quest. It detects the quest's map and blocks RMT."
+      },
+      "chat": {
+        "title": "Chat and Discord on match",
+        "text": "Nobody sees your Discord until there's mutual interest or you accept their request."
+      }
+    },
+    "safety": "No payments or RMT. Block or report anyone in one click and delete your account whenever you want. Not affiliated with Battlestate Games.",
+    "finalCta": {
+      "title": "Your next duo is one swipe away",
+      "text": "Creating your profile takes a minute."
+    },
+    "preview": {
+      "language": "Main English",
+      "meta": "Level 44 · EU · Active 3 min ago",
+      "reason1": "Speaks your language",
+      "reason2": "You both like Customs",
+      "reason3": "Both doing quests",
+      "pass": "Pass",
+      "like": "Like"
+    }
+  },
+  "demoBanner": "Local demo mode: all data is fake and lives in memory. Nothing is saved to Supabase.",
+  "responses": {
+    "accepted": "You're in! The chat is open.",
+    "openChat": "Open chat",
+    "declined": "The author didn't accept your request this time.",
+    "pending": "Request sent. We'll let you know when it's accepted.",
+    "messageLabel": {
+      "raid_now": "Message for the squad",
+      "quest_help": "Message for the author"
+    },
+    "messagePlaceholder": {
+      "raid_now": "E.g. I have comms, level 30, ready in 5 min",
+      "quest_help": "E.g. Already done it, I'll show you the route"
+    },
+    "sending": "Sending...",
+    "cta": {
+      "raid_now": "Join",
+      "quest_help": "Offer help"
+    },
+    "none": "No requests yet. The navigation badge will tell you when one arrives.",
+    "incoming": "Pending requests: {{count}}",
+    "unknownPlayer": "Player",
+    "level": "Level {{level}}",
+    "noMessage": "No message.",
+    "decline": "Decline",
+    "accept": "Accept",
+    "declinedByYou": "Declined",
+    "full": "This squad is already full."
+  },
+  "errorPage": {
+    "title": "Something went wrong",
+    "description": "We couldn't load this screen. Try again; if it keeps happening, give it a few minutes.",
+    "retry": "Try again",
+    "home": "Go home",
+    "notFoundTitle": "This page doesn't exist",
+    "notFoundDescription": "The link may have expired, the post may be closed or the match may no longer be available."
+  }
+}

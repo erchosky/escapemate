@@ -1,0 +1,54 @@
+{
+  "title": "Settings",
+  "description": "Connect your Tarkov data and control what appears on profiles.",
+  "languages": {
+    "title": "Languages",
+    "description": "Your primary language has more weight in matching. Add every language you can use in raid.",
+    "primary": "Primary language",
+    "spoken": "Languages you speak",
+    "save": "Save languages"
+  },
+  "tarkov": {
+    "title": "Tarkov profile",
+    "description": "Paste your public tarkov.dev profile link or save public manual stats if syncing is unavailable.",
+    "source": "Source:",
+    "lastSync": "Last sync:",
+    "notSynced": "Not synced",
+    "profileUrl": "tarkov.dev URL",
+    "profileUrlPlaceholder": "https://players.tarkov.dev/profile/2421869.json",
+    "showBeforeMatch": "Show general stats before a match",
+    "saveManual": "Save manual stats",
+    "syncNow": "Sync now",
+    "syncing": "Syncing...",
+    "saving": "Saving...",
+    "sources": {
+      "manual": "manual",
+      "tarkovDev": "tarkov.dev",
+      "manualFallback": "manual, tarkov.dev did not respond"
+    },
+    "stats": {
+      "level": "Level",
+      "survivalRate": "Survival %",
+      "kd": "K/D",
+      "raids": "Raids",
+      "hours": "Hours",
+      "pmcKills": "PMC kills"
+    }
+  },
+  "profile": {
+    "title": "Your profile",
+    "description": "This is how other players see you in swipe.",
+    "edit": "Edit profile",
+    "avatar": "Profile picture",
+    "avatarHint": "JPG, PNG or WEBP, 5 MB max. Replaces your Discord avatar.",
+    "avatarSubmit": "Upload picture"
+  },
+  "danger": {
+    "title": "Delete account",
+    "description": "Deletes your profile, matches, messages, posts and stats. This can't be undone.",
+    "confirmLabel": "Type {{word}} to confirm",
+    "confirmWord": "DELETE",
+    "submit": "Delete account",
+    "deleting": "Deleting..."
+  }
+}

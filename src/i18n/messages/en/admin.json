@@ -1,0 +1,23 @@
+{
+  "reports": "Reports",
+  "all": "All",
+  "description": "Community moderation.",
+  "status": {
+    "open": "Open",
+    "reviewed": "Reviewed",
+    "dismissed": "Dismissed",
+    "actioned": "Actioned"
+  },
+  "errors": {
+    "invalid": "Couldn't update the report.",
+    "failed": "Couldn't complete the action. Try again.",
+    "rateLimited": "Too many updates in a row."
+  },
+  "noDetails": "No additional details.",
+  "reporter": "Reporter",
+  "reported": "Reported",
+  "lastReview": "Last review",
+  "updating": "Updating...",
+  "emptyTitle": "No reports in this filter",
+  "emptyDescription": "User reports will show up here."
+}

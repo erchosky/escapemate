@@ -1,8 +1,10 @@
 # EscapeMate
 
-EscapeMate es un "Tinder" para jugadores de Escape from Tarkov: desliza perfiles compatibles, haz match y coordina por chat o Discord. Además tiene **Raid ahora**, para montar grupo en el momento, y **Ayuda con misiones**, para encontrar Sherpas o compañeros para una quest concreta.
+Un Tinder para encontrar compañeros de Escape from Tarkov. Deslizas perfiles, haces match y os coordináis por chat o Discord. Que entrar a una raid con alguien que juega como tú ya es bastante mejor que ir buscando grupo a ciegas, chacho.
 
-Versión actual: **1.3**. [`CHANGELOG.md`](CHANGELOG.md) resume los cambios de cada versión y [`docs/AUDITORIA.md`](docs/AUDITORIA.md) detalla los fallos corregidos, lo añadido, lo retirado y lo que queda pendiente. `docs/ESCALABILIDAD.md` explica cómo está preparada para decenas de miles de usuarios simultáneos y cómo medirlo.
+También trae **Raid ahora** para montar grupo en el momento y **Ayuda con misiones** para encontrar Sherpas o compañeros para una misión concreta.
+
+Versión actual: **1.3**. Los cambios están en [`CHANGELOG.md`](CHANGELOG.md); los fallos corregidos y lo pendiente, en [`docs/AUDITORIA.md`](docs/AUDITORIA.md). Para ver cómo está preparada para decenas de miles de usuarios simultáneos y cómo medirlo, tienes `docs/ESCALABILIDAD.md`.
 
 ## Pruébalo en 1 minuto (sin Supabase)
 
@@ -24,7 +26,7 @@ Abre `http://localhost:3000` y pulsa «Iniciar sesión con Discord»: en modo de
 
 El modo demo no se puede activar en un build de producción (`NODE_ENV=production`).
 
-## Funcionalidades
+## Qué puedes hacer
 
 | Sección | Qué hace |
 |---|---|
@@ -38,7 +40,7 @@ El modo demo no se puede activar en un build de producción (`NODE_ENV=productio
 
 Todo está en español e inglés (`src/i18n/messages`). Es mobile-first, con barra inferior en móvil, e instalable como PWA.
 
-## Stack
+## Con qué está hecho
 
 Next.js 16 (App Router, Server Actions, Turbopack) · React 19.3 · TypeScript 6 · Tailwind CSS 4 · Supabase (Auth con Discord, PostgreSQL con RLS, Realtime, Storage) · Netlify · Sentry y PostHog opcionales.
 
@@ -98,11 +100,11 @@ SENTRY_PROJECT=
 
 `OAUTH_ALLOWED_ORIGINS` es solo de servidor. En producción, `NEXT_PUBLIC_SITE_URL` es el origen canónico obligatorio. Nunca pongas una service role ni tokens privados en variables `NEXT_PUBLIC_*`. `LOCAL_DEMO=true` solo lo usan `npm run dev:demo` y los E2E.
 
-## Deploy en Netlify
+## Publicarlo en Netlify
 
-Build command `npm run build`, publish `.next` (ya está en `netlify.toml` con `@netlify/plugin-nextjs` y Node 24). Configura las variables de entorno, añade la URL final en Supabase y aplica la migración antes de desplegar.
+Comando de compilación `npm run build`, carpeta publicada `.next` (ya está en `netlify.toml` con `@netlify/plugin-nextjs` y Node 24). Configura las variables de entorno, añade la URL final en Supabase y aplica la migración antes de desplegar.
 
-## Tests
+## Comprobar que funciona
 
 ```bash
 npm run lint
